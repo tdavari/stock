@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stock Table</title>
+
+  <!-- DataTables CSS CDN -->
+  <link href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" rel="stylesheet">
+  <!-- jQuery CDN -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- DataTables JS CDN -->
+  <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Stock Data Table</h1>
+  <table id="stockTable" class="display">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Queue Count</th>
+        <th>Queue Volume</th>
+        <th>Price</th>
+        <th>Sell Volume</th>
+        <th>Total Queue Price</th>
+        <th>Growth</th>
+      </tr>
+    </thead>
+    <tfoot>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Queue Count</th>
+        <th>Queue Volume</th>
+        <th>Price</th>
+        <th>Sell Volume</th>
+        <th>Total Queue Price</th>
+        <th>Growth</th>
+      </tr>
+    </tfoot>
+  </table>
+
+  <!-- Link to external JS file -->
+  <script src="stock.js"></script>
+
+</body>
+
+</html>
