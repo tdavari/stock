@@ -1,0 +1,18 @@
+# Exclude Zone.Identifier files
+*.Zone.Identifier
+
+# Exclude JSON backup or temporary files
+*.json~
+
+# Exclude editor/IDE specific files
+*.swp
+*.swo
+*.bak
+*.tmp
+.idea/
+.vscode/
+*.log
+
+# Exclude system files
+.DS_Store
+Thumbs.db
