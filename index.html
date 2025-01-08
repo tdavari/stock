@@ -24,6 +24,17 @@
       table {
         width: 100%;
         margin-top: 20px;
+        border-collapse: collapse; /* Ensures that borders between cells are merged */
+      }
+
+      th, td {
+        padding: 10px;
+        text-align: center; /* Center text in each cell */
+      }
+
+      th {
+        background-color: #f2f2f2; /* Light background for headers */
+        font-weight: bold;
       }
     </style>
   </head>
@@ -38,6 +49,8 @@
           <th>Total Queue Value</th>
           <th>Growth</th>
           <th>Chance</th>
+          <th>Sell Volume Ratio</th>
+          <th>Group</th>
         </tr>
       </thead>
       <tfoot>
@@ -47,6 +60,8 @@
           <th>Total Queue Value</th>
           <th>Growth</th>
           <th>Chance</th>
+          <th>Sell Volume Ratio</th>
+          <th>Group</th>
         </tr>
       </tfoot>
     </table>

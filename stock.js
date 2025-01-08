@@ -10,6 +10,8 @@ $(document).ready(function () {
         { data: "total_queue_value" },
         { data: "growth" },
         { data: "chance" },
+        { data: "vol_ratio" },
+        { data: "group" },
       ],
       order: [[1, "desc"]],
     });
