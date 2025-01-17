@@ -3,7 +3,7 @@
 
 # Exclude JSON backup or temporary files
 *.json~
-
+*.json:*
 # Exclude editor/IDE specific files
 *.swp
 *.swo

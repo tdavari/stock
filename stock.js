@@ -12,8 +12,10 @@ $(document).ready(function () {
         { data: "chance" },
         { data: "market" },
         { data: "days_lock" },
+        { data: "base_vol_percent" },
         { data: "buy_power" },
         { data: "vol_ratio" },
+        { data: "free_float_share" },
         { data: "group" },
       ],
       order: [[1, "desc"]],
@@ -42,10 +44,10 @@ $(document).ready(function () {
   const API_URL = "https://api.coingecko.com/api/v3/coins/markets";
 
   // Fetch data from the API
-  $.getJSON(API_URL, {
+  $.getJSON(API_URL + "?_=" + new Date().getTime(), {
     vs_currency: "usd",
     order: "market_cap_desc",
-    per_page: 1000,
+    per_page: 250,
     page: 1,
     sparkline: false,
   })
@@ -67,7 +69,7 @@ $(document).ready(function () {
         id: item.id,
         market_cap: (item.market_cap / 1e9).toFixed(1), // Convert to billion USD
         ath_change_percentage: item.ath_change_percentage.toFixed(2),
-        current_price: item.current_price.toFixed(3),
+        current_price: item.current_price.toFixed(2),
         ath_date: new Date(item.ath_date).toLocaleDateString(),
       }));
 
