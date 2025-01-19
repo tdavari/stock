@@ -22,6 +22,27 @@ $(document).ready(function () {
     });
   });
 
+  // Fetch data from the local all_stock_growth.json file
+  $.getJSON("all_stock_growth.json", function (data) {
+    // Initialize DataTable with the data
+    $("#stockGrowth").DataTable({
+      data: data,
+      columns: [
+        { data: "Name" },
+        { data: "From_2024" },
+        { data: "From_2023" },
+        { data: "From_2022" },
+        { data: "From_2021" },
+        { data: "From_2020" },
+        { data: "From_2019" },
+        { data: "Market" },
+        { data: "PE" },
+      ],
+      order: [[6, "desc"]],
+      pageLength: 25,
+    });
+  });
+
   // Fetch data from the API for the TSE descriptions table
   const apiURL = "https://cdn.tsetmc.com/api/Msg/GetMsgByFlow/0/200";
   $.getJSON(apiURL, function (response) {
