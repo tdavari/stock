@@ -13,6 +13,7 @@ $(document).ready(function () {
         { data: "market" },
         { data: "days_lock" },
         { data: "base_vol_percent" },
+        { data: "each_person_buy" },
         { data: "buy_power" },
         { data: "vol_ratio" },
         { data: "free_float_share" },
