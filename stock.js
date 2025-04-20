@@ -44,22 +44,52 @@ $(document).ready(function () {
     });
   });
 
+  // // Fetch data from the API for the TSE descriptions table
+  // const apiURL = "https://cdn.tsetmc.com/api/Msg/GetMsgByFlow/0/200";
+  // $.getJSON(apiURL, function (response) {
+  //   // Filter messages to include only those with the specific phrase
+  //   const filteredMessages = response.msg.filter(
+  //     (msg) =>
+  //       msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
+  //       msg.tseDesc.includes("گره")
+  //   );
+
+  //   // Initialize the DataTable with filtered data
+  //   $("#tseDescTable").DataTable({
+  //     data: filteredMessages,
+  //     columns: [
+  //       { data: "tseDesc" }, // Display only the tseDesc column
+  //     ],
+  //   });
+  // });
   // Fetch data from the API for the TSE descriptions table
+  // Fetch data from the API for the TSE descriptions table
+  // Today's date in the same format as dEven (YYYYMMDD)
+  const today = new Date();
+  const todayFormatted =
+    today.getFullYear().toString() +
+    (today.getMonth() + 1).toString().padStart(2, "0") +
+    today.getDate().toString().padStart(2, "0");
+
+  console.log("Today formatted (for dEven):", todayFormatted);
   const apiURL = "https://cdn.tsetmc.com/api/Msg/GetMsgByFlow/0/200";
   $.getJSON(apiURL, function (response) {
-    // Filter messages to include only those with the specific phrase
+    // Filter messages for today only
     const filteredMessages = response.msg.filter(
       (msg) =>
-        msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
-        msg.tseDesc.includes("گره")
+        msg.dEven === Number(todayFormatted) &&
+        (msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
+          msg.tseDesc.includes("گره"))
     );
 
-    // Initialize the DataTable with filtered data
+    // Initialize DataTable
     $("#tseDescTable").DataTable({
       data: filteredMessages,
       columns: [
-        { data: "tseDesc" }, // Display only the tseDesc column
+        { data: "tseDesc", title: "Description" },
+        { data: "hEven", title: "Date" },
       ],
+      order: [[1, "desc"]],
     });
   });
 
