@@ -77,9 +77,10 @@ $(document).ready(function () {
     // Filter messages for today only
     const filteredMessages = response.msg.filter(
       (msg) =>
-        msg.dEven === Number(todayFormatted) &&
-        (msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
-          msg.tseDesc.includes("گره"))
+        (msg.dEven === Number(todayFormatted) &&
+          (msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
+            msg.tseDesc.includes("گره"))) ||
+        msg.tseDesc.includes("با محدوديت نوسان قيمت آماده انجام معامله")
     );
 
     // Initialize DataTable
