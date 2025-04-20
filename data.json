@@ -10,8 +10,8 @@
         "chance": 3.54,
         "days_lock": 5,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.8,
+        "each_person_buy": 57,
         "free_float_share": 48
     },
     {
@@ -25,8 +25,8 @@
         "chance": 0,
         "days_lock": 10,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.4,
+        "each_person_buy": 115,
         "free_float_share": 46
     },
     {
@@ -40,8 +40,8 @@
         "chance": 21.07,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.6,
+        "each_person_buy": 186,
         "free_float_share": 49
     },
     {
@@ -55,8 +55,8 @@
         "chance": 10.73,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 24.0,
+        "each_person_buy": 162,
         "free_float_share": 12
     },
     {
@@ -70,8 +70,8 @@
         "chance": 0.28,
         "days_lock": 16,
         "base_vol_percent": 87,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.6,
+        "each_person_buy": 83,
         "free_float_share": 21
     },
     {
@@ -100,8 +100,8 @@
         "chance": 0.23,
         "days_lock": 9,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 12.0,
+        "each_person_buy": 108,
         "free_float_share": 29
     },
     {
@@ -130,8 +130,8 @@
         "chance": 0.08,
         "days_lock": 9,
         "base_vol_percent": 88,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.0,
+        "each_person_buy": 104,
         "free_float_share": 30
     },
     {
@@ -145,8 +145,8 @@
         "chance": 0.96,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 10.7,
+        "each_person_buy": 90,
         "free_float_share": 51
     },
     {
@@ -160,8 +160,8 @@
         "chance": 32.98,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.5,
+        "each_person_buy": 37,
         "free_float_share": 26
     },
     {
@@ -175,8 +175,8 @@
         "chance": 0.0,
         "days_lock": 9,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 45.5,
+        "each_person_buy": 318,
         "free_float_share": 78
     },
     {
@@ -190,8 +190,8 @@
         "chance": 0.45,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 29.2,
+        "each_person_buy": 702,
         "free_float_share": 90
     },
     {
@@ -205,8 +205,8 @@
         "chance": 18.29,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 10.8,
+        "each_person_buy": 132,
         "free_float_share": 51
     },
     {
@@ -220,8 +220,8 @@
         "chance": 2.96,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 11.8,
+        "each_person_buy": 169,
         "free_float_share": 50
     },
     {
@@ -235,8 +235,8 @@
         "chance": 22.78,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 13.5,
+        "each_person_buy": 183,
         "free_float_share": 34
     },
     {
@@ -250,8 +250,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.2,
+        "each_person_buy": 55,
         "free_float_share": 9
     },
     {
@@ -265,8 +265,8 @@
         "chance": 3.04,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.5,
+        "each_person_buy": 95,
         "free_float_share": 26
     },
     {
@@ -280,8 +280,8 @@
         "chance": 1.7,
         "days_lock": 9,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.0,
+        "each_person_buy": 81,
         "free_float_share": 21
     },
     {
@@ -310,8 +310,8 @@
         "chance": 0.19,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 117.0,
+        "each_person_buy": 658,
         "free_float_share": 44
     },
     {
@@ -325,8 +325,8 @@
         "chance": 347.22,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 94,
         "free_float_share": 54
     },
     {
@@ -340,8 +340,8 @@
         "chance": 11.99,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 21.3,
+        "each_person_buy": 243,
         "free_float_share": 30
     },
     {
@@ -355,8 +355,8 @@
         "chance": 0.04,
         "days_lock": 6,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 34.3,
+        "each_person_buy": 139,
         "free_float_share": 39
     },
     {
@@ -385,8 +385,8 @@
         "chance": 0.07,
         "days_lock": 15,
         "base_vol_percent": 86,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 13.4,
+        "each_person_buy": 160,
         "free_float_share": 32
     },
     {
@@ -400,8 +400,8 @@
         "chance": 0.76,
         "days_lock": 7,
         "base_vol_percent": 85,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 48.4,
+        "each_person_buy": 155,
         "free_float_share": 72
     },
     {
@@ -430,8 +430,8 @@
         "chance": 0.16,
         "days_lock": 10,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.9,
+        "each_person_buy": 131,
         "free_float_share": 35
     },
     {
@@ -460,8 +460,8 @@
         "chance": 0.2,
         "days_lock": 8,
         "base_vol_percent": 62,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.4,
+        "each_person_buy": 97,
         "free_float_share": 33
     },
     {
@@ -475,8 +475,8 @@
         "chance": 3.41,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.4,
+        "each_person_buy": 67,
         "free_float_share": 34
     },
     {
@@ -490,8 +490,8 @@
         "chance": 33.21,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.1,
+        "each_person_buy": 69,
         "free_float_share": 30
     },
     {
@@ -505,8 +505,8 @@
         "chance": 0.24,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 77.3,
+        "each_person_buy": 357,
         "free_float_share": 27
     },
     {
@@ -580,8 +580,8 @@
         "chance": 3.23,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.0,
+        "each_person_buy": 144,
         "free_float_share": 20
     },
     {
@@ -610,8 +610,8 @@
         "chance": 0.03,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.9,
+        "each_person_buy": 217,
         "free_float_share": 61
     },
     {
@@ -625,8 +625,8 @@
         "chance": 12.33,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.2,
+        "each_person_buy": 103,
         "free_float_share": 17
     },
     {
@@ -655,8 +655,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.6,
+        "each_person_buy": 46,
         "free_float_share": 19
     },
     {
@@ -670,8 +670,8 @@
         "chance": 0.13,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 12.2,
+        "each_person_buy": 81,
         "free_float_share": 47
     },
     {
@@ -685,8 +685,8 @@
         "chance": 0.03,
         "days_lock": 2,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.2,
+        "each_person_buy": 102,
         "free_float_share": 14
     },
     {
@@ -730,8 +730,8 @@
         "chance": 0.37,
         "days_lock": 9,
         "base_vol_percent": 88,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 19.6,
+        "each_person_buy": 142,
         "free_float_share": 28
     },
     {
@@ -745,8 +745,8 @@
         "chance": 0.49,
         "days_lock": 9,
         "base_vol_percent": 55,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 11.0,
+        "each_person_buy": 126,
         "free_float_share": 97
     },
     {
@@ -760,8 +760,8 @@
         "chance": 0.07,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.7,
+        "each_person_buy": 240,
         "free_float_share": 58
     },
     {
@@ -775,8 +775,8 @@
         "chance": 25.88,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.9,
+        "each_person_buy": 223,
         "free_float_share": 41
     },
     {
@@ -790,8 +790,8 @@
         "chance": 13.65,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 11.3,
+        "each_person_buy": 100,
         "free_float_share": 48
     },
     {
@@ -820,8 +820,8 @@
         "chance": 0.0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 26.0,
+        "each_person_buy": 161,
         "free_float_share": 53
     },
     {
@@ -850,8 +850,8 @@
         "chance": 17.45,
         "days_lock": 6,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 107.5,
+        "each_person_buy": 493,
         "free_float_share": 29
     },
     {
@@ -865,8 +865,8 @@
         "chance": 10.21,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.2,
+        "each_person_buy": 63,
         "free_float_share": 20
     },
     {
@@ -880,8 +880,8 @@
         "chance": 19.66,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.7,
+        "each_person_buy": 72,
         "free_float_share": 33
     },
     {
@@ -895,8 +895,8 @@
         "chance": 51.59,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.0,
+        "each_person_buy": 40,
         "free_float_share": 9
     },
     {
@@ -910,8 +910,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.9,
+        "each_person_buy": 52,
         "free_float_share": 23
     },
     {
@@ -925,8 +925,8 @@
         "chance": 5.65,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 15.9,
+        "each_person_buy": 148,
         "free_float_share": 25
     },
     {
@@ -940,8 +940,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.1,
+        "each_person_buy": 33,
         "free_float_share": 42
     },
     {
@@ -955,8 +955,8 @@
         "chance": 5.24,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 16.1,
+        "each_person_buy": 64,
         "free_float_share": 27
     },
     {
@@ -970,8 +970,8 @@
         "chance": 18.51,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 18.0,
+        "each_person_buy": 110,
         "free_float_share": 14
     },
     {
@@ -985,8 +985,8 @@
         "chance": 8.17,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 80.8,
+        "each_person_buy": 461,
         "free_float_share": 29
     },
     {
@@ -1000,8 +1000,8 @@
         "chance": 0.63,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.1,
+        "each_person_buy": 91,
         "free_float_share": 81
     },
     {
@@ -1045,8 +1045,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.6,
+        "each_person_buy": 112,
         "free_float_share": 13
     },
     {
@@ -1075,8 +1075,8 @@
         "chance": 0.25,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 63.8,
+        "each_person_buy": 618,
         "free_float_share": 36
     },
     {
@@ -1090,8 +1090,8 @@
         "chance": 20.75,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.2,
+        "each_person_buy": 93,
         "free_float_share": 67
     },
     {
@@ -1105,8 +1105,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 54.8,
+        "each_person_buy": 121,
         "free_float_share": 14
     },
     {
@@ -1120,8 +1120,8 @@
         "chance": 4.63,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.8,
+        "each_person_buy": 82,
         "free_float_share": 30
     },
     {
@@ -1135,8 +1135,8 @@
         "chance": 2.38,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.7,
+        "each_person_buy": 127,
         "free_float_share": 39
     },
     {
@@ -1150,8 +1150,8 @@
         "chance": 0.62,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.0,
+        "each_person_buy": 69,
         "free_float_share": 27
     },
     {
@@ -1165,8 +1165,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.0,
+        "each_person_buy": 347,
         "free_float_share": 23
     },
     {
@@ -1225,8 +1225,8 @@
         "chance": 55.63,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.1,
+        "each_person_buy": 81,
         "free_float_share": 15
     },
     {
@@ -1240,8 +1240,8 @@
         "chance": 0.11,
         "days_lock": 7,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 132.0,
+        "each_person_buy": 355,
         "free_float_share": 26
     },
     {
@@ -1255,8 +1255,8 @@
         "chance": 6.49,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.2,
+        "each_person_buy": 110,
         "free_float_share": 36
     },
     {
@@ -1285,8 +1285,8 @@
         "chance": 2.61,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 27,
         "free_float_share": 32
     },
     {
@@ -1315,8 +1315,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 43.3,
+        "each_person_buy": 330,
         "free_float_share": 13
     },
     {
@@ -1330,8 +1330,8 @@
         "chance": 5.46,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.8,
+        "each_person_buy": 38,
         "free_float_share": 63
     },
     {
@@ -1360,8 +1360,8 @@
         "chance": 0.61,
         "days_lock": 6,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.7,
+        "each_person_buy": 135,
         "free_float_share": 68
     },
     {
@@ -1375,8 +1375,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.4,
+        "each_person_buy": 31,
         "free_float_share": 21
     },
     {
@@ -1465,8 +1465,8 @@
         "chance": 5.56,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 12.4,
+        "each_person_buy": 77,
         "free_float_share": 52
     },
     {
@@ -1480,8 +1480,8 @@
         "chance": 0.52,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 14.9,
+        "each_person_buy": 78,
         "free_float_share": 20
     },
     {
@@ -1495,8 +1495,8 @@
         "chance": 10.19,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.2,
+        "each_person_buy": 44,
         "free_float_share": 35
     },
     {
@@ -1510,8 +1510,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 56.5,
+        "each_person_buy": 74,
         "free_float_share": 19
     },
     {
@@ -1525,8 +1525,8 @@
         "chance": 0.12,
         "days_lock": 6,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.1,
+        "each_person_buy": 69,
         "free_float_share": 36
     },
     {
@@ -1555,8 +1555,8 @@
         "chance": 6.9,
         "days_lock": 3,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 56.7,
+        "each_person_buy": 153,
         "free_float_share": 13
     },
     {
@@ -1570,8 +1570,8 @@
         "chance": 1.68,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 38.8,
+        "each_person_buy": 232,
         "free_float_share": 49
     },
     {
@@ -1585,8 +1585,8 @@
         "chance": 3.1,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 19.1,
+        "each_person_buy": 149,
         "free_float_share": 9
     },
     {
@@ -1600,8 +1600,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.1,
+        "each_person_buy": 43,
         "free_float_share": 47
     },
     {
@@ -1630,8 +1630,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.0,
+        "each_person_buy": 123,
         "free_float_share": 22
     },
     {
@@ -1645,8 +1645,8 @@
         "chance": 0.39,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.0,
+        "each_person_buy": 56,
         "free_float_share": 68
     },
     {
@@ -1660,8 +1660,8 @@
         "chance": 37.72,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.6,
+        "each_person_buy": 84,
         "free_float_share": 29
     },
     {
@@ -1675,8 +1675,8 @@
         "chance": 7.43,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.8,
+        "each_person_buy": 211,
         "free_float_share": 11
     },
     {
@@ -1690,8 +1690,8 @@
         "chance": 19.0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.9,
+        "each_person_buy": 58,
         "free_float_share": 35
     },
     {
@@ -1705,8 +1705,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.5,
+        "each_person_buy": 27,
         "free_float_share": 7
     },
     {
@@ -1720,8 +1720,8 @@
         "chance": 4.08,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.4,
+        "each_person_buy": 26,
         "free_float_share": 47
     },
     {
@@ -1750,8 +1750,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.3,
+        "each_person_buy": 28,
         "free_float_share": 29
     },
     {
@@ -1780,8 +1780,8 @@
         "chance": 3.07,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.0,
+        "each_person_buy": 51,
         "free_float_share": 70
     },
     {
@@ -1795,8 +1795,8 @@
         "chance": 2.4,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.4,
+        "each_person_buy": 33,
         "free_float_share": 15
     },
     {
@@ -1810,8 +1810,8 @@
         "chance": 48.79,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.5,
+        "each_person_buy": 41,
         "free_float_share": 39
     },
     {
@@ -1825,8 +1825,8 @@
         "chance": 0.34,
         "days_lock": 6,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 11.7,
+        "each_person_buy": 107,
         "free_float_share": 75
     },
     {
@@ -1840,8 +1840,8 @@
         "chance": 12.5,
         "days_lock": 8,
         "base_vol_percent": 37,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.3,
+        "each_person_buy": 61,
         "free_float_share": 12
     },
     {
@@ -1870,8 +1870,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.2,
+        "each_person_buy": 84,
         "free_float_share": 43
     },
     {
@@ -1900,8 +1900,8 @@
         "chance": 6.33,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 131.3,
+        "each_person_buy": 794,
         "free_float_share": 42
     },
     {
@@ -1945,8 +1945,8 @@
         "chance": 0.2,
         "days_lock": 10,
         "base_vol_percent": 30,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 18.9,
+        "each_person_buy": 478,
         "free_float_share": 16
     },
     {
@@ -1975,8 +1975,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.1,
+        "each_person_buy": 19,
         "free_float_share": 11
     },
     {
@@ -1990,8 +1990,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.3,
+        "each_person_buy": 45,
         "free_float_share": 55
     },
     {
@@ -2020,8 +2020,8 @@
         "chance": 1.73,
         "days_lock": 6,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.2,
+        "each_person_buy": 64,
         "free_float_share": 45
     },
     {
@@ -2035,8 +2035,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.5,
+        "each_person_buy": 28,
         "free_float_share": 25
     },
     {
@@ -2050,8 +2050,8 @@
         "chance": 1.33,
         "days_lock": 9,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.8,
+        "each_person_buy": 35,
         "free_float_share": 53
     },
     {
@@ -2065,8 +2065,8 @@
         "chance": 102.7,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.8,
+        "each_person_buy": 12,
         "free_float_share": 23
     },
     {
@@ -2095,8 +2095,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 10.8,
+        "each_person_buy": 21,
         "free_float_share": 14
     },
     {
@@ -2125,8 +2125,8 @@
         "chance": 5.96,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.5,
+        "each_person_buy": 47,
         "free_float_share": 19
     },
     {
@@ -2140,8 +2140,8 @@
         "chance": 0,
         "days_lock": 5,
         "base_vol_percent": 60,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 84,
         "free_float_share": 59
     },
     {
@@ -2155,8 +2155,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.6,
+        "each_person_buy": 50,
         "free_float_share": 25
     },
     {
@@ -2170,8 +2170,8 @@
         "chance": 1.27,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 11.2,
+        "each_person_buy": 155,
         "free_float_share": 30
     },
     {
@@ -2200,8 +2200,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 56,
         "free_float_share": 24
     },
     {
@@ -2215,8 +2215,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.5,
+        "each_person_buy": 37,
         "free_float_share": 27
     },
     {
@@ -2260,8 +2260,8 @@
         "chance": 0.7,
         "days_lock": 2,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.5,
+        "each_person_buy": 28,
         "free_float_share": 9
     },
     {
@@ -2290,8 +2290,8 @@
         "chance": 20.79,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.1,
+        "each_person_buy": 415,
         "free_float_share": 31
     },
     {
@@ -2305,8 +2305,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.1,
+        "each_person_buy": 48,
         "free_float_share": 9
     },
     {
@@ -2320,8 +2320,8 @@
         "chance": 4.75,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.0,
+        "each_person_buy": 56,
         "free_float_share": 18
     },
     {
@@ -2350,8 +2350,8 @@
         "chance": 23.59,
         "days_lock": 9,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.4,
+        "each_person_buy": 45,
         "free_float_share": 41
     },
     {
@@ -2365,8 +2365,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.7,
+        "each_person_buy": 25,
         "free_float_share": 51
     },
     {
@@ -2380,8 +2380,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.2,
+        "each_person_buy": 46,
         "free_float_share": 31
     },
     {
@@ -2395,8 +2395,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 14.3,
+        "each_person_buy": 277,
         "free_float_share": 10
     },
     {
@@ -2410,8 +2410,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 43.1,
+        "each_person_buy": 673,
         "free_float_share": 28
     },
     {
@@ -2425,8 +2425,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 57,
         "free_float_share": 22
     },
     {
@@ -2440,8 +2440,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.0,
+        "each_person_buy": 38,
         "free_float_share": 38
     },
     {
@@ -2455,8 +2455,8 @@
         "chance": 2.81,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.7,
+        "each_person_buy": 36,
         "free_float_share": 44
     },
     {
@@ -2470,8 +2470,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.1,
+        "each_person_buy": 145,
         "free_float_share": 7
     },
     {
@@ -2500,8 +2500,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.2,
+        "each_person_buy": 32,
         "free_float_share": 56
     },
     {
@@ -2530,8 +2530,8 @@
         "chance": 14.85,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 40.7,
+        "each_person_buy": 232,
         "free_float_share": 17
     },
     {
@@ -2560,8 +2560,8 @@
         "chance": 2.75,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 16.3,
+        "each_person_buy": 116,
         "free_float_share": 37
     },
     {
@@ -2620,8 +2620,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.1,
+        "each_person_buy": 85,
         "free_float_share": 13
     },
     {
@@ -2635,8 +2635,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 115,
         "free_float_share": 13
     },
     {
@@ -2650,8 +2650,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.0,
+        "each_person_buy": 29,
         "free_float_share": 36
     },
     {
@@ -2665,8 +2665,8 @@
         "chance": 1.08,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 32.2,
+        "each_person_buy": 186,
         "free_float_share": 21
     },
     {
@@ -2695,8 +2695,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.3,
+        "each_person_buy": 28,
         "free_float_share": 30
     },
     {
@@ -2740,8 +2740,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.6,
+        "each_person_buy": 4,
         "free_float_share": 30
     },
     {
@@ -2785,8 +2785,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.6,
+        "each_person_buy": 28,
         "free_float_share": 38
     },
     {
@@ -2800,8 +2800,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.8,
+        "each_person_buy": 48,
         "free_float_share": 14
     },
     {
@@ -2830,8 +2830,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.0,
+        "each_person_buy": 96,
         "free_float_share": 41
     },
     {
@@ -2845,8 +2845,8 @@
         "chance": 2.34,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.4,
+        "each_person_buy": 76,
         "free_float_share": 49
     },
     {
@@ -2860,8 +2860,8 @@
         "chance": 34.23,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.9,
+        "each_person_buy": 50,
         "free_float_share": 28
     },
     {
@@ -2875,8 +2875,8 @@
         "chance": 8.11,
         "days_lock": 9,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.1,
+        "each_person_buy": 105,
         "free_float_share": 58
     },
     {
@@ -2903,11 +2903,10 @@
         "market": 1.8,
         "group": "خودرو و ساخت قطعات",
         "chance": 0.84,
-        "days_lock": 3,
-        "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
-        "free_float_share": 44
+        "days_lock": 0,
+        "base_vol_percent": 4.2,
+        "buy_power": 76,
+        "each_person_buy": 44
     },
     {
         "name": "اسیاتک",
@@ -2920,8 +2919,8 @@
         "chance": 1.68,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.0,
+        "each_person_buy": 75,
         "free_float_share": 27
     },
     {
@@ -2935,8 +2934,8 @@
         "chance": 0.87,
         "days_lock": 3,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.5,
+        "each_person_buy": 60,
         "free_float_share": 47
     },
     {
@@ -2980,8 +2979,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 137,
         "free_float_share": 21
     },
     {
@@ -3010,8 +3009,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 50,
         "free_float_share": 5
     },
     {
@@ -3025,8 +3024,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.9,
+        "each_person_buy": 49,
         "free_float_share": 38
     },
     {
@@ -3040,8 +3039,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.5,
+        "each_person_buy": 70,
         "free_float_share": 29
     },
     {
@@ -3055,8 +3054,8 @@
         "chance": 77.95,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.5,
+        "each_person_buy": 62,
         "free_float_share": 16
     },
     {
@@ -3100,8 +3099,8 @@
         "chance": 104.3,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.9,
+        "each_person_buy": 61,
         "free_float_share": 21
     },
     {
@@ -3115,8 +3114,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.2,
+        "each_person_buy": 48,
         "free_float_share": 48
     },
     {
@@ -3145,8 +3144,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 56,
         "free_float_share": 21
     },
     {
@@ -3160,8 +3159,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.5,
+        "each_person_buy": 32,
         "free_float_share": 7
     },
     {
@@ -3190,8 +3189,8 @@
         "chance": 51.08,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.4,
+        "each_person_buy": 55,
         "free_float_share": 14
     },
     {
@@ -3220,8 +3219,8 @@
         "chance": 0.92,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.0,
+        "each_person_buy": 119,
         "free_float_share": 43
     },
     {
@@ -3235,8 +3234,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.7,
+        "each_person_buy": 36,
         "free_float_share": 43
     },
     {
@@ -3250,8 +3249,8 @@
         "chance": 0,
         "days_lock": 13,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.4,
+        "each_person_buy": 42,
         "free_float_share": 47
     },
     {
@@ -3265,8 +3264,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 36.4,
+        "each_person_buy": 149,
         "free_float_share": 31
     },
     {
@@ -3280,8 +3279,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.6,
+        "each_person_buy": 49,
         "free_float_share": 33
     },
     {
@@ -3295,8 +3294,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.7,
+        "each_person_buy": 39,
         "free_float_share": 20
     },
     {
@@ -3310,8 +3309,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.6,
+        "each_person_buy": 39,
         "free_float_share": 80
     },
     {
@@ -3325,8 +3324,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.7,
+        "each_person_buy": 49,
         "free_float_share": 50
     },
     {
@@ -3355,8 +3354,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.1,
+        "each_person_buy": 49,
         "free_float_share": 31
     },
     {
@@ -3370,8 +3369,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.6,
+        "each_person_buy": 21,
         "free_float_share": 18
     },
     {
@@ -3415,8 +3414,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.8,
+        "each_person_buy": 150,
         "free_float_share": 14
     },
     {
@@ -3430,8 +3429,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.2,
+        "each_person_buy": 69,
         "free_float_share": 27
     },
     {
@@ -3445,8 +3444,8 @@
         "chance": 6.62,
         "days_lock": 7,
         "base_vol_percent": 14,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 9.2,
+        "each_person_buy": 93,
         "free_float_share": 22
     },
     {
@@ -3475,8 +3474,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.3,
+        "each_person_buy": 19,
         "free_float_share": 18
     },
     {
@@ -3505,8 +3504,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.2,
+        "each_person_buy": 14,
         "free_float_share": 8
     },
     {
@@ -3520,8 +3519,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -3.7,
+        "each_person_buy": 7,
         "free_float_share": 17
     },
     {
@@ -3535,8 +3534,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.0,
+        "each_person_buy": 37,
         "free_float_share": 19
     },
     {
@@ -3550,8 +3549,8 @@
         "chance": 0.99,
         "days_lock": 6,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 88.3,
+        "each_person_buy": 152,
         "free_float_share": 23
     },
     {
@@ -3565,8 +3564,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.0,
+        "each_person_buy": 43,
         "free_float_share": 31
     },
     {
@@ -3580,8 +3579,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 116.2,
+        "each_person_buy": 276,
         "free_float_share": 22
     },
     {
@@ -3595,8 +3594,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.9,
+        "each_person_buy": 39,
         "free_float_share": 14
     },
     {
@@ -3610,8 +3609,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 23.5,
+        "each_person_buy": 202,
         "free_float_share": 24
     },
     {
@@ -3670,8 +3669,8 @@
         "chance": 0.18,
         "days_lock": 3,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.2,
+        "each_person_buy": 56,
         "free_float_share": 35
     },
     {
@@ -3700,8 +3699,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.3,
+        "each_person_buy": 49,
         "free_float_share": 27
     },
     {
@@ -3760,8 +3759,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.7,
+        "each_person_buy": 44,
         "free_float_share": 65
     },
     {
@@ -3775,8 +3774,8 @@
         "chance": 4694.35,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.1,
+        "each_person_buy": 22,
         "free_float_share": 13
     },
     {
@@ -3790,8 +3789,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 27.1,
+        "each_person_buy": 95,
         "free_float_share": 28
     },
     {
@@ -3805,8 +3804,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.7,
+        "each_person_buy": 121,
         "free_float_share": 26
     },
     {
@@ -3820,8 +3819,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -3.9,
+        "each_person_buy": 23,
         "free_float_share": 18
     },
     {
@@ -3865,8 +3864,8 @@
         "chance": 70.31,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 55,
         "free_float_share": 28
     },
     {
@@ -3895,8 +3894,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.2,
+        "each_person_buy": 123,
         "free_float_share": 18
     },
     {
@@ -3910,8 +3909,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.4,
+        "each_person_buy": 25,
         "free_float_share": 34
     },
     {
@@ -3940,8 +3939,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.0,
+        "each_person_buy": 46,
         "free_float_share": 43
     },
     {
@@ -3985,8 +3984,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -3.0,
+        "each_person_buy": 99,
         "free_float_share": 17
     },
     {
@@ -4000,8 +3999,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.4,
+        "each_person_buy": 35,
         "free_float_share": 66
     },
     {
@@ -4030,8 +4029,8 @@
         "chance": 13.03,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 44.6,
+        "each_person_buy": 47,
         "free_float_share": 9
     },
     {
@@ -4045,8 +4044,8 @@
         "chance": 0,
         "days_lock": 6,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.5,
+        "each_person_buy": 15,
         "free_float_share": 6
     },
     {
@@ -4060,8 +4059,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 10.6,
+        "each_person_buy": 58,
         "free_float_share": 18
     },
     {
@@ -4090,8 +4089,8 @@
         "chance": 0.84,
         "days_lock": 6,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.3,
+        "each_person_buy": 48,
         "free_float_share": 15
     },
     {
@@ -4120,8 +4119,8 @@
         "chance": 3.09,
         "days_lock": 8,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.3,
+        "each_person_buy": 59,
         "free_float_share": 17
     },
     {
@@ -4135,8 +4134,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.5,
+        "each_person_buy": 38,
         "free_float_share": 57
     },
     {
@@ -4165,8 +4164,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.9,
+        "each_person_buy": 35,
         "free_float_share": 63
     },
     {
@@ -4195,8 +4194,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 18.6,
+        "each_person_buy": 38,
         "free_float_share": 7
     },
     {
@@ -4240,8 +4239,8 @@
         "chance": 4.99,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 13.2,
+        "each_person_buy": 51,
         "free_float_share": 20
     },
     {
@@ -4285,8 +4284,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.2,
+        "each_person_buy": 43,
         "free_float_share": 15
     },
     {
@@ -4300,8 +4299,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.3,
+        "each_person_buy": 124,
         "free_float_share": 47
     },
     {
@@ -4345,8 +4344,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.3,
+        "each_person_buy": 100,
         "free_float_share": 35
     },
     {
@@ -4375,8 +4374,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.5,
+        "each_person_buy": 39,
         "free_float_share": 45
     },
     {
@@ -4420,8 +4419,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.1,
+        "each_person_buy": 28,
         "free_float_share": 34
     },
     {
@@ -4435,8 +4434,8 @@
         "chance": 22.72,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 8.0,
+        "each_person_buy": 56,
         "free_float_share": 17
     },
     {
@@ -4450,8 +4449,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.5,
+        "each_person_buy": 26,
         "free_float_share": 15
     },
     {
@@ -4465,8 +4464,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 33,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 22.9,
+        "each_person_buy": 186,
         "free_float_share": 52
     },
     {
@@ -4525,8 +4524,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.2,
+        "each_person_buy": 62,
         "free_float_share": 23
     },
     {
@@ -4540,8 +4539,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.8,
+        "each_person_buy": 22,
         "free_float_share": 18
     },
     {
@@ -4555,8 +4554,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.1,
+        "each_person_buy": 57,
         "free_float_share": 13
     },
     {
@@ -4585,8 +4584,8 @@
         "chance": 4.58,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.2,
+        "each_person_buy": 61,
         "free_float_share": 22
     },
     {
@@ -4630,8 +4629,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 22.4,
+        "each_person_buy": 46,
         "free_float_share": 18
     },
     {
@@ -4645,8 +4644,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.8,
+        "each_person_buy": 84,
         "free_float_share": 9
     },
     {
@@ -4705,8 +4704,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.9,
+        "each_person_buy": 50,
         "free_float_share": 15
     },
     {
@@ -4720,8 +4719,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.4,
+        "each_person_buy": 51,
         "free_float_share": 67
     },
     {
@@ -4780,8 +4779,8 @@
         "chance": 0.27,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.2,
+        "each_person_buy": 42,
         "free_float_share": 12
     },
     {
@@ -4795,8 +4794,8 @@
         "chance": 43.98,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.9,
+        "each_person_buy": 28,
         "free_float_share": 10
     },
     {
@@ -4825,8 +4824,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.7,
+        "each_person_buy": 332,
         "free_float_share": 9
     },
     {
@@ -4855,8 +4854,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.6,
+        "each_person_buy": 99,
         "free_float_share": 10
     },
     {
@@ -4915,8 +4914,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.7,
+        "each_person_buy": 19,
         "free_float_share": 14
     },
     {
@@ -4930,8 +4929,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.5,
+        "each_person_buy": 31,
         "free_float_share": 22
     },
     {
@@ -4975,8 +4974,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.4,
+        "each_person_buy": 35,
         "free_float_share": 31
     },
     {
@@ -5005,8 +5004,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 42.9,
+        "each_person_buy": 220,
         "free_float_share": 26
     },
     {
@@ -5110,8 +5109,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.1,
+        "each_person_buy": 30,
         "free_float_share": 18
     },
     {
@@ -5155,8 +5154,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.5,
+        "each_person_buy": 267,
         "free_float_share": 13
     },
     {
@@ -5185,8 +5184,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 5.6,
+        "each_person_buy": 36,
         "free_float_share": 13
     },
     {
@@ -5215,8 +5214,8 @@
         "chance": 43.44,
         "days_lock": 4,
         "base_vol_percent": 75,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 13.3,
+        "each_person_buy": 116,
         "free_float_share": 15
     },
     {
@@ -5260,8 +5259,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.9,
+        "each_person_buy": 20,
         "free_float_share": 34
     },
     {
@@ -5305,8 +5304,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.2,
+        "each_person_buy": 45,
         "free_float_share": 14
     },
     {
@@ -5320,8 +5319,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.9,
+        "each_person_buy": 37,
         "free_float_share": 42
     },
     {
@@ -5335,8 +5334,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.8,
+        "each_person_buy": 73,
         "free_float_share": 20
     },
     {
@@ -5350,8 +5349,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 7.3,
+        "each_person_buy": 200,
         "free_float_share": 27
     },
     {
@@ -5365,8 +5364,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.4,
+        "each_person_buy": 14,
         "free_float_share": 19
     },
     {
@@ -5380,8 +5379,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 6.1,
+        "each_person_buy": 53,
         "free_float_share": 23
     },
     {
@@ -5425,8 +5424,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.0,
+        "each_person_buy": 44,
         "free_float_share": 10
     },
     {
@@ -5440,8 +5439,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.3,
+        "each_person_buy": 34,
         "free_float_share": 40
     },
     {
@@ -5470,8 +5469,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.5,
+        "each_person_buy": 75,
         "free_float_share": 21
     },
     {
@@ -5485,8 +5484,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 13.1,
+        "each_person_buy": 103,
         "free_float_share": 36
     },
     {
@@ -5500,8 +5499,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.0,
+        "each_person_buy": 47,
         "free_float_share": 18
     },
     {
@@ -5515,8 +5514,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.7,
+        "each_person_buy": 39,
         "free_float_share": 15
     },
     {
@@ -5545,8 +5544,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.4,
+        "each_person_buy": 77,
         "free_float_share": 10
     },
     {
@@ -5575,8 +5574,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.8,
+        "each_person_buy": 32,
         "free_float_share": 18
     },
     {
@@ -5590,8 +5589,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.6,
+        "each_person_buy": 69,
         "free_float_share": 26
     },
     {
@@ -5620,8 +5619,8 @@
         "chance": 0,
         "days_lock": 6,
         "base_vol_percent": 66,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 2.0,
+        "each_person_buy": 26,
         "free_float_share": 37
     },
     {
@@ -5785,8 +5784,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.7,
+        "each_person_buy": 25,
         "free_float_share": 26
     },
     {
@@ -5815,8 +5814,8 @@
         "chance": 2.73,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 15.9,
+        "each_person_buy": 77,
         "free_float_share": 21
     },
     {
@@ -5845,8 +5844,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.6,
+        "each_person_buy": 29,
         "free_float_share": 15
     },
     {
@@ -5860,8 +5859,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.8,
+        "each_person_buy": 34,
         "free_float_share": 24
     },
     {
@@ -5875,8 +5874,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.9,
+        "each_person_buy": 147,
         "free_float_share": 8
     },
     {
@@ -5890,8 +5889,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.2,
+        "each_person_buy": 20,
         "free_float_share": 40
     },
     {
@@ -5905,8 +5904,8 @@
         "chance": 0,
         "days_lock": 3,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -5.1,
+        "each_person_buy": 14,
         "free_float_share": 16
     },
     {
@@ -5920,8 +5919,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.6,
+        "each_person_buy": 31,
         "free_float_share": 7
     },
     {
@@ -5935,8 +5934,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.2,
+        "each_person_buy": 44,
         "free_float_share": 22
     },
     {
@@ -5950,8 +5949,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -2.1,
+        "each_person_buy": 29,
         "free_float_share": 11
     },
     {
@@ -5980,8 +5979,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 3.9,
+        "each_person_buy": 35,
         "free_float_share": 30
     },
     {
@@ -5995,8 +5994,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 1.3,
+        "each_person_buy": 42,
         "free_float_share": 13
     },
     {
@@ -6025,8 +6024,8 @@
         "chance": 0,
         "days_lock": 2,
         "base_vol_percent": 50,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": 4.5,
+        "each_person_buy": 22,
         "free_float_share": 14
     },
     {
@@ -6055,8 +6054,8 @@
         "chance": 10.2,
         "days_lock": 2,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.2,
+        "each_person_buy": 25,
         "free_float_share": 30
     },
     {
@@ -6130,8 +6129,8 @@
         "chance": 0,
         "days_lock": 1,
         "base_vol_percent": 0,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.2,
+        "each_person_buy": 16,
         "free_float_share": 33
     },
     {
@@ -6145,8 +6144,8 @@
         "chance": 515.0,
         "days_lock": 1,
         "base_vol_percent": 100,
-        "buy_power": 0,
-        "each_person_buy": 0,
+        "buy_power": -1.3,
+        "each_person_buy": 46,
         "free_float_share": 26
     }
 ]
