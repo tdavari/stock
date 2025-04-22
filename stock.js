@@ -12,6 +12,7 @@ $(document).ready(function () {
         { data: "chance" },
         { data: "market" },
         { data: "days_lock" },
+        { data: "demand_ratio" },
         { data: "base_vol_percent" },
         { data: "each_person_buy" },
         { data: "buy_power" },
