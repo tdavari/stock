@@ -15,13 +15,24 @@ function getQueryParams() {
 
 const { interval, duration } = getQueryParams();
 
-const button = document.querySelector("#send_order_btnSendOrder");
+// const button = document.querySelector("#send_order_btnSendOrder");
+// Determine which version we're on (desktop or mobile)
+let button;
+
+// Try finding the desktop button first
+button = document.querySelector("#send_order_btnSendOrder");
+
+// If not found, try finding the mobile version
+if (!button) {
+  button = document.querySelector(".footer .send");
+}
 
 if (!button) {
   alert("🚫 دکمه خرید پیدا نشد! لطفاً مطمئن شو در صفحه‌ی خرید هستی.");
 } else {
   const intervalId = setInterval(() => {
     button.click();
+    console.log("✅ Clicked");
   }, interval);
 
   setTimeout(() => {
