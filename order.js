@@ -1,55 +1,78 @@
-console.log("Hello, Trader!");
-
 (function () {
-  // Cleanup if previously running
-  if (window.__autoClickIntervalId) {
-    clearInterval(window.__autoClickIntervalId);
-    window.__autoClickIntervalId = null;
-    console.log("⛔️ Previous interval cleared.");
-  }
+  console.log("Hello, Trader!");
 
+  // Utility: get query params from script tag
   function getQueryParams() {
     const currentScript = document.currentScript;
     const url = new URL(currentScript.src);
-    return {
-      interval: Number(url.searchParams.get("interval")) || 333,
-      duration: Number(url.searchParams.get("duration")) || 2,
-    };
+    const interval = Number(url.searchParams.get("interval")) || 333;
+    const duration = Number(url.searchParams.get("duration")) || 2;
+
+    console.log("⏱️ Interval between clicks (ms):", interval);
+    console.log("⏳ Total duration (min):", duration);
+
+    return { interval, duration };
   }
 
-  const { interval, duration } = getQueryParams();
-  console.log("🔁 Interval (ms):", interval);
-  console.log("⏱ Duration (min):", duration);
+  const params = getQueryParams();
 
-  const desktopButton = document.querySelector("#send_order_btnSendOrder");
-  const mobileButton = document.querySelector(".footer .send");
-  const targetButton = desktopButton || mobileButton;
+  let button = document.querySelector("#send_order_btnSendOrder") || 
+               document.querySelector(".footer .send");
 
-  if (!targetButton) {
+  if (!button) {
     alert("🚫 دکمه خرید پیدا نشد! لطفاً مطمئن شو در صفحه‌ی خرید هستی.");
-    return;
+  } else {
+    const workerCode = `
+      (function() {
+        let intervalId;
+        let endTime;
+        let startTime = Date.now();
+
+        self.onmessage = function(e) {
+          const { action, interval, duration } = e.data;
+
+          if (action === 'start') {
+            endTime = Date.now() + (duration * 60 * 1000);
+            intervalId = setInterval(() => {
+              const currentTime = Date.now();
+              const elapsedSeconds = Math.floor((currentTime - startTime) / 1000);
+              const remaining = endTime - currentTime;
+
+              if (remaining <= 0) {
+                clearInterval(intervalId);
+                self.postMessage({ action: 'stop', elapsed: elapsedSeconds });
+              } else {
+                self.postMessage({ action: 'click', elapsed: elapsedSeconds });
+              }
+            }, interval);
+          } else if (action === 'stop') {
+            if (intervalId) clearInterval(intervalId);
+          }
+        };
+      })();
+    `;
+
+    const blob = new Blob([workerCode], { type: 'application/javascript' });
+    const workerUrl = URL.createObjectURL(blob);
+    const worker = new Worker(workerUrl);
+    const startTime = Date.now();
+
+    worker.onmessage = function(e) {
+      if (e.data.action === 'click') {
+        button.click();
+        console.log("✅ Clicked");
+      } else if (e.data.action === 'stop') {
+        const totalSeconds = Math.floor((Date.now() - startTime) / 1000);
+        worker.terminate();
+        URL.revokeObjectURL(workerUrl);
+        console.log("✅ عملیات کلیک متوقف شد. (کل زمان: " + totalSeconds + " ثانیه)");
+      }
+    };
+
+    worker.postMessage({
+      action: 'start',
+      interval: params.interval,
+      duration: params.duration
+    });
   }
-
-  let clicksSent = 0;
-  const startTime = Date.now();
-  const endTime = startTime + duration * 60 * 1000;
-  let nextClickTime = startTime;
-
-  window.__autoClickIntervalId = setInterval(() => {
-    const now = Date.now();
-
-    while (now >= nextClickTime && now <= endTime) {
-      targetButton.click();
-      clicksSent++;
-      console.log(`✅ Clicked`);
-      nextClickTime += interval;
-    }
-
-    if (now > endTime) {
-      clearInterval(window.__autoClickIntervalId);
-      window.__autoClickIntervalId = null;
-      console.log("🛑 عملیات کلیک متوقف شد.");
-      alert("🛑 عملیات کلیک متوقف شد.");
-    }
-  }, 100); // check more frequently (every 100ms) to stay responsive
 })();
