@@ -1,42 +1,55 @@
 console.log("Hello, Trader!");
 
-// Utility: get query params from script tag
-function getQueryParams() {
-  const currentScript = document.currentScript;
-  const url = new URL(currentScript.src);
-  const interval = Number(url.searchParams.get("interval")) || 333;
-  const duration = Number(url.searchParams.get("duration")) || 2;
+(function () {
+  // Cleanup if previously running
+  if (window.__autoClickIntervalId) {
+    clearInterval(window.__autoClickIntervalId);
+    window.__autoClickIntervalId = null;
+    console.log("⛔️ Previous interval cleared.");
+  }
 
-  console.log("⏱️ Interval between clicks (ms):", interval);
-  console.log("⏳ Total duration (min):", duration);
+  function getQueryParams() {
+    const currentScript = document.currentScript;
+    const url = new URL(currentScript.src);
+    return {
+      interval: Number(url.searchParams.get("interval")) || 333,
+      duration: Number(url.searchParams.get("duration")) || 2,
+    };
+  }
 
-  return { interval, duration };
-}
+  const { interval, duration } = getQueryParams();
+  console.log("🔁 Interval (ms):", interval);
+  console.log("⏱ Duration (min):", duration);
 
-const { interval, duration } = getQueryParams();
+  const desktopButton = document.querySelector("#send_order_btnSendOrder");
+  const mobileButton = document.querySelector(".footer .send");
+  const targetButton = desktopButton || mobileButton;
 
-// const button = document.querySelector("#send_order_btnSendOrder");
-// Determine which version we're on (desktop or mobile)
-let button;
+  if (!targetButton) {
+    alert("🚫 دکمه خرید پیدا نشد! لطفاً مطمئن شو در صفحه‌ی خرید هستی.");
+    return;
+  }
 
-// Try finding the desktop button first
-button = document.querySelector("#send_order_btnSendOrder");
+  let clicksSent = 0;
+  const startTime = Date.now();
+  const endTime = startTime + duration * 60 * 1000;
+  let nextClickTime = startTime;
 
-// If not found, try finding the mobile version
-if (!button) {
-  button = document.querySelector(".footer .send");
-}
+  window.__autoClickIntervalId = setInterval(() => {
+    const now = Date.now();
 
-if (!button) {
-  alert("🚫 دکمه خرید پیدا نشد! لطفاً مطمئن شو در صفحه‌ی خرید هستی.");
-} else {
-  const intervalId = setInterval(() => {
-    button.click();
-    console.log("✅ Clicked");
-  }, interval);
+    while (now >= nextClickTime && now <= endTime) {
+      targetButton.click();
+      clicksSent++;
+      console.log(`✅ Clicked`);
+      nextClickTime += interval;
+    }
 
-  setTimeout(() => {
-    clearInterval(intervalId);
-    console.log("✅ عملیات کلیک متوقف شد.");
-  }, duration * 60 * 1000);
-}
+    if (now > endTime) {
+      clearInterval(window.__autoClickIntervalId);
+      window.__autoClickIntervalId = null;
+      console.log("🛑 عملیات کلیک متوقف شد.");
+      alert("🛑 عملیات کلیک متوقف شد.");
+    }
+  }, 100); // check more frequently (every 100ms) to stay responsive
+})();
