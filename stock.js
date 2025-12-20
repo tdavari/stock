@@ -81,7 +81,7 @@ $(document).ready(function () {
         msg.dEven === Number(todayFormatted) &&
         (msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
           msg.tseDesc.includes("گره") ||
-          msg.tseDesc.includes("با محدوديت نوسان قيمت آماده انجام معامله") ||
+          msg.tseDesc.includes("آماده انجام معامله") ||
           msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت امروز")
         )
     );
