@@ -20,6 +20,7 @@ $(document).ready(function () {
         { data: "free_float_share" },
         { data: "group" },
         { data: "solid" },
+        { data: "order_value" },
       ],
       order: [[1, "desc"]],
     });
