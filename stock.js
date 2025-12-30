@@ -19,6 +19,7 @@ $(document).ready(function () {
         { data: "vol_ratio" },
         { data: "free_float_share" },
         { data: "group" },
+        { data: "solid" },
       ],
       order: [[1, "desc"]],
     });
@@ -82,8 +83,7 @@ $(document).ready(function () {
         (msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت بازگشايي") ||
           msg.tseDesc.includes("گره") ||
           msg.tseDesc.includes("آماده انجام معامله") ||
-          msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت امروز")
-        )
+          msg.tseDesc.includes("با محدوديت دامنه نوسان قيمت امروز"))
     );
 
     // Initialize DataTable
