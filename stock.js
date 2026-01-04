@@ -21,8 +21,9 @@ $(document).ready(function () {
         { data: "group" },
         { data: "solid" },
         { data: "order_value" },
+        { data: "ath_diff" },
       ],
-      order: [[1, "desc"]],
+      order: [[2, "desc"]],
     });
   });
 
