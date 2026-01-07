@@ -22,6 +22,7 @@ $(document).ready(function () {
         { data: "solid" },
         { data: "order_value" },
         { data: "ath_diff" },
+        { data: "expected_days" },
       ],
       order: [[2, "desc"]],
     });
