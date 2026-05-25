@@ -11,6 +11,8 @@ $(document).ready(function () {
         { data: "growth" },
         { data: "chance" },
         { data: "market" },
+        { data: "pe_ttm" },
+        { data: "recent_growth" },
         { data: "days_lock" },
         { data: "demand_ratio" },
         { data: "base_vol_percent" },
