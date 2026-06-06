@@ -25,6 +25,7 @@ $(document).ready(function () {
         { data: "order_value" },
         { data: "ath_diff" },
         { data: "expected_days" },
+        { data: "buy_to_failure" },
       ],
       order: [[2, "desc"]],
     });

@@ -19,7 +19,8 @@
         "free_float_share": 47,
         "order_value": 20,
         "ath_diff": null,
-        "expected_days": 1.1
+        "expected_days": 1.1,
+        "buy_to_failure": 0
     },
     {
         "name": "کولان",
@@ -41,7 +42,8 @@
         "free_float_share": 11,
         "order_value": 248,
         "ath_diff": null,
-        "expected_days": 14.8
+        "expected_days": 14.8,
+        "buy_to_failure": 73
     },
     {
         "name": "شپنا",
@@ -63,7 +65,8 @@
         "free_float_share": 34,
         "order_value": 137,
         "ath_diff": null,
-        "expected_days": 1.8
+        "expected_days": 1.8,
+        "buy_to_failure": 111
     },
     {
         "name": "فملی",
@@ -85,7 +88,8 @@
         "free_float_share": 41,
         "order_value": 190,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "ونوین",
@@ -107,7 +111,8 @@
         "free_float_share": 31,
         "order_value": 115,
         "ath_diff": null,
-        "expected_days": 8.1
+        "expected_days": 8.1,
+        "buy_to_failure": 93
     },
     {
         "name": "شیفته",
@@ -129,7 +134,8 @@
         "free_float_share": 13,
         "order_value": 179,
         "ath_diff": null,
-        "expected_days": 4.7
+        "expected_days": 4.7,
+        "buy_to_failure": 34
     },
     {
         "name": "سرود",
@@ -151,7 +157,8 @@
         "free_float_share": 42,
         "order_value": 105,
         "ath_diff": null,
-        "expected_days": 21.6
+        "expected_days": 21.6,
+        "buy_to_failure": 45
     },
     {
         "name": "شبندر",
@@ -173,7 +180,8 @@
         "free_float_share": 30,
         "order_value": 184,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "غکورش",
@@ -195,7 +203,8 @@
         "free_float_share": 8,
         "order_value": 122,
         "ath_diff": null,
-        "expected_days": 48.7
+        "expected_days": 48.7,
+        "buy_to_failure": 59
     },
     {
         "name": "غپینو",
@@ -217,7 +226,8 @@
         "free_float_share": 38,
         "order_value": 47,
         "ath_diff": null,
-        "expected_days": 4.8
+        "expected_days": 4.8,
+        "buy_to_failure": 50
     },
     {
         "name": "غشهداب",
@@ -239,7 +249,8 @@
         "free_float_share": 45,
         "order_value": 46,
         "ath_diff": null,
-        "expected_days": 10.8
+        "expected_days": 10.8,
+        "buy_to_failure": 10
     },
     {
         "name": "آگاس",
@@ -261,7 +272,8 @@
         "free_float_share": 16,
         "order_value": 1546,
         "ath_diff": null,
-        "expected_days": 0.7
+        "expected_days": 0.7,
+        "buy_to_failure": 0
     },
     {
         "name": "سفارس",
@@ -283,7 +295,8 @@
         "free_float_share": 32,
         "order_value": 223,
         "ath_diff": null,
-        "expected_days": 65.0
+        "expected_days": 65.0,
+        "buy_to_failure": 145
     },
     {
         "name": "تیپیکو",
@@ -305,7 +318,8 @@
         "free_float_share": 18,
         "order_value": 475,
         "ath_diff": null,
-        "expected_days": 34.0
+        "expected_days": 34.0,
+        "buy_to_failure": 162
     },
     {
         "name": "دزاگرس",
@@ -327,7 +341,8 @@
         "free_float_share": 28,
         "order_value": 117,
         "ath_diff": null,
-        "expected_days": 5.7
+        "expected_days": 5.7,
+        "buy_to_failure": 47
     },
     {
         "name": "شسپا",
@@ -349,7 +364,8 @@
         "free_float_share": 15,
         "order_value": 110,
         "ath_diff": null,
-        "expected_days": 20.2
+        "expected_days": 20.2,
+        "buy_to_failure": 89
     },
     {
         "name": "تلیسه",
@@ -371,7 +387,8 @@
         "free_float_share": 31,
         "order_value": 119,
         "ath_diff": null,
-        "expected_days": 3.7
+        "expected_days": 3.7,
+        "buy_to_failure": 57
     },
     {
         "name": "جهش",
@@ -393,7 +410,8 @@
         "free_float_share": 47,
         "order_value": 189,
         "ath_diff": null,
-        "expected_days": 10.0
+        "expected_days": 10.0,
+        "buy_to_failure": 170
     },
     {
         "name": "سیمانو",
@@ -415,7 +433,8 @@
         "free_float_share": 23,
         "order_value": 305,
         "ath_diff": null,
-        "expected_days": 24.1
+        "expected_days": 24.1,
+        "buy_to_failure": 74
     },
     {
         "name": "غمینو",
@@ -437,7 +456,8 @@
         "free_float_share": 31,
         "order_value": 163,
         "ath_diff": null,
-        "expected_days": 10.8
+        "expected_days": 10.8,
+        "buy_to_failure": 70
     },
     {
         "name": "توسن",
@@ -459,7 +479,8 @@
         "free_float_share": 30,
         "order_value": 156,
         "ath_diff": null,
-        "expected_days": 65.5
+        "expected_days": 65.5,
+        "buy_to_failure": 102
     },
     {
         "name": "دجابر",
@@ -481,7 +502,8 @@
         "free_float_share": 23,
         "order_value": 105,
         "ath_diff": null,
-        "expected_days": 239.6
+        "expected_days": 239.6,
+        "buy_to_failure": 0
     },
     {
         "name": "سشرق",
@@ -503,7 +525,8 @@
         "free_float_share": 37,
         "order_value": 155,
         "ath_diff": null,
-        "expected_days": 129.2
+        "expected_days": 129.2,
+        "buy_to_failure": 0
     },
     {
         "name": "دارو",
@@ -525,7 +548,8 @@
         "free_float_share": 11,
         "order_value": 137,
         "ath_diff": null,
-        "expected_days": 42.2
+        "expected_days": 42.2,
+        "buy_to_failure": 116
     },
     {
         "name": "زبینا",
@@ -547,7 +571,8 @@
         "free_float_share": 28,
         "order_value": 180,
         "ath_diff": null,
-        "expected_days": 14.3
+        "expected_days": 14.3,
+        "buy_to_failure": 103
     },
     {
         "name": "کوچین",
@@ -569,7 +594,8 @@
         "free_float_share": 15,
         "order_value": 172,
         "ath_diff": null,
-        "expected_days": 90.4
+        "expected_days": 90.4,
+        "buy_to_failure": 155
     },
     {
         "name": "دتوزیع",
@@ -591,7 +617,8 @@
         "free_float_share": 13,
         "order_value": 121,
         "ath_diff": null,
-        "expected_days": 24.2
+        "expected_days": 24.2,
+        "buy_to_failure": 59
     },
     {
         "name": "سصوفی",
@@ -613,7 +640,8 @@
         "free_float_share": 31,
         "order_value": 899,
         "ath_diff": null,
-        "expected_days": 13.1
+        "expected_days": 13.1,
+        "buy_to_failure": 471
     },
     {
         "name": "پالایش",
@@ -635,7 +663,8 @@
         "free_float_share": 42,
         "order_value": 1738,
         "ath_diff": null,
-        "expected_days": 8.6
+        "expected_days": 8.6,
+        "buy_to_failure": 299
     },
     {
         "name": "سپید",
@@ -657,7 +686,8 @@
         "free_float_share": 16,
         "order_value": 197,
         "ath_diff": null,
-        "expected_days": 81.2
+        "expected_days": 81.2,
+        "buy_to_failure": 160
     },
     {
         "name": "سمازن",
@@ -679,7 +709,8 @@
         "free_float_share": 22,
         "order_value": 500,
         "ath_diff": null,
-        "expected_days": 10.6
+        "expected_days": 10.6,
+        "buy_to_failure": 265
     },
     {
         "name": "دارونو",
@@ -701,7 +732,8 @@
         "free_float_share": 25,
         "order_value": 187,
         "ath_diff": null,
-        "expected_days": 28.8
+        "expected_days": 28.8,
+        "buy_to_failure": 54
     },
     {
         "name": "شتاب",
@@ -723,7 +755,8 @@
         "free_float_share": 36,
         "order_value": 239,
         "ath_diff": null,
-        "expected_days": 1.5
+        "expected_days": 1.5,
+        "buy_to_failure": 0
     },
     {
         "name": "هرمز",
@@ -745,7 +778,8 @@
         "free_float_share": 11,
         "order_value": 81,
         "ath_diff": null,
-        "expected_days": 20.9
+        "expected_days": 20.9,
+        "buy_to_failure": 51
     },
     {
         "name": "دارا یکم",
@@ -767,7 +801,8 @@
         "free_float_share": 71,
         "order_value": 2007,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "غبشهر",
@@ -789,7 +824,8 @@
         "free_float_share": 13,
         "order_value": 197,
         "ath_diff": null,
-        "expected_days": 276.2
+        "expected_days": 276.2,
+        "buy_to_failure": 0
     },
     {
         "name": "ددانا",
@@ -811,7 +847,8 @@
         "free_float_share": 10,
         "order_value": 129,
         "ath_diff": null,
-        "expected_days": 51.6
+        "expected_days": 51.6,
+        "buy_to_failure": 67
     },
     {
         "name": "وبملت",
@@ -833,7 +870,8 @@
         "free_float_share": 48,
         "order_value": 47,
         "ath_diff": null,
-        "expected_days": 0.0
+        "expected_days": 0.0,
+        "buy_to_failure": 0
     },
     {
         "name": "سیتا",
@@ -855,7 +893,8 @@
         "free_float_share": 10,
         "order_value": 233,
         "ath_diff": null,
-        "expected_days": 15.6
+        "expected_days": 15.6,
+        "buy_to_failure": 218
     },
     {
         "name": "شبریز",
@@ -877,7 +916,8 @@
         "free_float_share": 29,
         "order_value": 347,
         "ath_diff": null,
-        "expected_days": 1.9
+        "expected_days": 1.9,
+        "buy_to_failure": 158
     },
     {
         "name": "سآبیک",
@@ -899,7 +939,8 @@
         "free_float_share": 18,
         "order_value": 589,
         "ath_diff": null,
-        "expected_days": 3.3
+        "expected_days": 3.3,
+        "buy_to_failure": 272
     },
     {
         "name": "زفجر",
@@ -921,7 +962,8 @@
         "free_float_share": 17,
         "order_value": 298,
         "ath_diff": null,
-        "expected_days": 34.8
+        "expected_days": 34.8,
+        "buy_to_failure": 207
     },
     {
         "name": "فگستر",
@@ -943,7 +985,8 @@
         "free_float_share": 30,
         "order_value": 133,
         "ath_diff": null,
-        "expected_days": 6.2
+        "expected_days": 6.2,
+        "buy_to_failure": 66
     },
     {
         "name": "پخش",
@@ -965,7 +1008,8 @@
         "free_float_share": 33,
         "order_value": 165,
         "ath_diff": null,
-        "expected_days": 4.5
+        "expected_days": 4.5,
+        "buy_to_failure": 111
     },
     {
         "name": "فباهنر",
@@ -987,7 +1031,8 @@
         "free_float_share": 26,
         "order_value": 103,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "برکت",
@@ -1009,7 +1054,8 @@
         "free_float_share": 32,
         "order_value": 113,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 0
     },
     {
         "name": "فایرا",
@@ -1031,7 +1077,8 @@
         "free_float_share": 50,
         "order_value": 157,
         "ath_diff": null,
-        "expected_days": 24.7
+        "expected_days": 24.7,
+        "buy_to_failure": 116
     },
     {
         "name": "غدانه",
@@ -1053,7 +1100,8 @@
         "free_float_share": 31,
         "order_value": 150,
         "ath_diff": null,
-        "expected_days": 44.3
+        "expected_days": 44.3,
+        "buy_to_failure": 66
     },
     {
         "name": "سغدیر",
@@ -1075,7 +1123,8 @@
         "free_float_share": 10,
         "order_value": 141,
         "ath_diff": null,
-        "expected_days": 3.3
+        "expected_days": 3.3,
+        "buy_to_failure": 102
     },
     {
         "name": "تسه1405",
@@ -1097,7 +1146,8 @@
         "free_float_share": 100,
         "order_value": 4627,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 0
     },
     {
         "name": "نیروترانسفو",
@@ -1119,7 +1169,8 @@
         "free_float_share": 14,
         "order_value": 117,
         "ath_diff": null,
-        "expected_days": 8.7
+        "expected_days": 8.7,
+        "buy_to_failure": 254
     },
     {
         "name": "ارفع",
@@ -1141,7 +1192,8 @@
         "free_float_share": 10,
         "order_value": 157,
         "ath_diff": null,
-        "expected_days": 5.4
+        "expected_days": 5.4,
+        "buy_to_failure": 0
     },
     {
         "name": "هجرت",
@@ -1163,7 +1215,8 @@
         "free_float_share": 22,
         "order_value": 153,
         "ath_diff": null,
-        "expected_days": 24.9
+        "expected_days": 24.9,
+        "buy_to_failure": 76
     },
     {
         "name": "اهرم",
@@ -1185,7 +1238,8 @@
         "free_float_share": 62,
         "order_value": 369,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "موج",
@@ -1207,7 +1261,8 @@
         "free_float_share": 79,
         "order_value": 426,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "دعبید",
@@ -1229,7 +1284,8 @@
         "free_float_share": 10,
         "order_value": 112,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "دقاضی",
@@ -1251,7 +1307,8 @@
         "free_float_share": 10,
         "order_value": 108,
         "ath_diff": null,
-        "expected_days": 33.8
+        "expected_days": 33.8,
+        "buy_to_failure": 73
     },
     {
         "name": "وپاسار",
@@ -1273,7 +1330,8 @@
         "free_float_share": 24,
         "order_value": 155,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 0
     },
     {
         "name": "ستران",
@@ -1295,7 +1353,8 @@
         "free_float_share": 29,
         "order_value": 110,
         "ath_diff": null,
-        "expected_days": 1.7
+        "expected_days": 1.7,
+        "buy_to_failure": 56
     },
     {
         "name": "نارنج اهرم",
@@ -1317,7 +1376,8 @@
         "free_float_share": 30,
         "order_value": 316,
         "ath_diff": null,
-        "expected_days": 2.9
+        "expected_days": 2.9,
+        "buy_to_failure": 192
     },
     {
         "name": "دلقما",
@@ -1339,7 +1399,8 @@
         "free_float_share": 27,
         "order_value": 113,
         "ath_diff": null,
-        "expected_days": 25.0
+        "expected_days": 25.0,
+        "buy_to_failure": 57
     },
     {
         "name": "اطلس",
@@ -1361,7 +1422,8 @@
         "free_float_share": 19,
         "order_value": 512,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "کی بی سی",
@@ -1383,7 +1445,8 @@
         "free_float_share": 33,
         "order_value": 106,
         "ath_diff": null,
-        "expected_days": 1.6
+        "expected_days": 1.6,
+        "buy_to_failure": 66
     },
     {
         "name": "افق",
@@ -1405,7 +1468,8 @@
         "free_float_share": 8,
         "order_value": 466,
         "ath_diff": null,
-        "expected_days": 28.0
+        "expected_days": 28.0,
+        "buy_to_failure": 261
     },
     {
         "name": "توان",
@@ -1427,7 +1491,8 @@
         "free_float_share": 39,
         "order_value": 389,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "سپاها",
@@ -1449,7 +1514,8 @@
         "free_float_share": 33,
         "order_value": 136,
         "ath_diff": null,
-        "expected_days": 1.6
+        "expected_days": 1.6,
+        "buy_to_failure": 102
     },
     {
         "name": "شبهرن",
@@ -1471,7 +1537,8 @@
         "free_float_share": 32,
         "order_value": 255,
         "ath_diff": null,
-        "expected_days": 0.9
+        "expected_days": 0.9,
+        "buy_to_failure": 0
     },
     {
         "name": "سامان",
@@ -1493,7 +1560,8 @@
         "free_float_share": 54,
         "order_value": 178,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "کهمدا",
@@ -1515,7 +1583,8 @@
         "free_float_share": 46,
         "order_value": 107,
         "ath_diff": null,
-        "expected_days": 3.6
+        "expected_days": 3.6,
+        "buy_to_failure": 77
     },
     {
         "name": "بیدار",
@@ -1537,7 +1606,8 @@
         "free_float_share": 37,
         "order_value": 258,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "دفارا",
@@ -1559,7 +1629,8 @@
         "free_float_share": 33,
         "order_value": 175,
         "ath_diff": null,
-        "expected_days": 8.1
+        "expected_days": 8.1,
+        "buy_to_failure": 99
     },
     {
         "name": "فارما کیان",
@@ -1581,7 +1652,8 @@
         "free_float_share": 30,
         "order_value": 174,
         "ath_diff": null,
-        "expected_days": 9.0
+        "expected_days": 9.0,
+        "buy_to_failure": 63
     },
     {
         "name": "دتماد",
@@ -1603,7 +1675,8 @@
         "free_float_share": 19,
         "order_value": 261,
         "ath_diff": null,
-        "expected_days": 77.3
+        "expected_days": 77.3,
+        "buy_to_failure": 202
     },
     {
         "name": "سجام",
@@ -1625,7 +1698,8 @@
         "free_float_share": 19,
         "order_value": 120,
         "ath_diff": null,
-        "expected_days": 26.9
+        "expected_days": 26.9,
+        "buy_to_failure": 65
     },
     {
         "name": "تکشا",
@@ -1647,7 +1721,8 @@
         "free_float_share": 35,
         "order_value": 138,
         "ath_diff": null,
-        "expected_days": 10.3
+        "expected_days": 10.3,
+        "buy_to_failure": 199
     },
     {
         "name": "غمهرا",
@@ -1669,7 +1744,8 @@
         "free_float_share": 27,
         "order_value": 115,
         "ath_diff": null,
-        "expected_days": 54.3
+        "expected_days": 54.3,
+        "buy_to_failure": 125
     },
     {
         "name": "شاملا",
@@ -1691,7 +1767,8 @@
         "free_float_share": 23,
         "order_value": 265,
         "ath_diff": null,
-        "expected_days": 6.3
+        "expected_days": 6.3,
+        "buy_to_failure": 735
     },
     {
         "name": "دلر",
@@ -1713,7 +1790,8 @@
         "free_float_share": 17,
         "order_value": 113,
         "ath_diff": null,
-        "expected_days": 4.6
+        "expected_days": 4.6,
+        "buy_to_failure": 94
     },
     {
         "name": "شراز",
@@ -1735,7 +1813,8 @@
         "free_float_share": 24,
         "order_value": 425,
         "ath_diff": null,
-        "expected_days": 22.5
+        "expected_days": 22.5,
+        "buy_to_failure": 382
     },
     {
         "name": "انرژی",
@@ -1757,7 +1836,8 @@
         "free_float_share": 79,
         "order_value": 129,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 113
     },
     {
         "name": "غدیس",
@@ -1779,7 +1859,8 @@
         "free_float_share": 30,
         "order_value": 359,
         "ath_diff": null,
-        "expected_days": 3.6
+        "expected_days": 3.6,
+        "buy_to_failure": 310
     },
     {
         "name": "قشکر",
@@ -1801,7 +1882,8 @@
         "free_float_share": 29,
         "order_value": 106,
         "ath_diff": null,
-        "expected_days": 163.4
+        "expected_days": 163.4,
+        "buy_to_failure": 0
     },
     {
         "name": "فسازان",
@@ -1823,7 +1905,8 @@
         "free_float_share": 31,
         "order_value": 132,
         "ath_diff": null,
-        "expected_days": 16.4
+        "expected_days": 16.4,
+        "buy_to_failure": 130
     },
     {
         "name": "وپست",
@@ -1845,7 +1928,8 @@
         "free_float_share": 36,
         "order_value": 151,
         "ath_diff": null,
-        "expected_days": 0.8
+        "expected_days": 0.8,
+        "buy_to_failure": 0
     },
     {
         "name": "غصینو",
@@ -1867,7 +1951,8 @@
         "free_float_share": 21,
         "order_value": 161,
         "ath_diff": null,
-        "expected_days": 2.0
+        "expected_days": 2.0,
+        "buy_to_failure": 109
     },
     {
         "name": "کاسپین",
@@ -1889,7 +1974,8 @@
         "free_float_share": 17,
         "order_value": 198,
         "ath_diff": null,
-        "expected_days": 3.2
+        "expected_days": 3.2,
+        "buy_to_failure": 139
     },
     {
         "name": "زقیام",
@@ -1911,7 +1997,8 @@
         "free_float_share": 22,
         "order_value": 142,
         "ath_diff": null,
-        "expected_days": 2.0
+        "expected_days": 2.0,
+        "buy_to_failure": 77
     },
     {
         "name": "کرازیح",
@@ -1933,7 +2020,8 @@
         "free_float_share": 33,
         "order_value": 6,
         "ath_diff": null,
-        "expected_days": 4.7
+        "expected_days": 4.7,
+        "buy_to_failure": 0
     },
     {
         "name": "ثبهساز",
@@ -1955,7 +2043,8 @@
         "free_float_share": 31,
         "order_value": 53,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "شلرد",
@@ -1977,7 +2066,8 @@
         "free_float_share": 30,
         "order_value": 82,
         "ath_diff": null,
-        "expected_days": 9.2
+        "expected_days": 9.2,
+        "buy_to_failure": 45
     },
     {
         "name": "زفکا",
@@ -1999,7 +2089,8 @@
         "free_float_share": 29,
         "order_value": 150,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 0
     },
     {
         "name": "سیسکو",
@@ -2021,7 +2112,8 @@
         "free_float_share": 6,
         "order_value": 107,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 52
     },
     {
         "name": "حخزر",
@@ -2043,7 +2135,8 @@
         "free_float_share": 11,
         "order_value": 167,
         "ath_diff": null,
-        "expected_days": 4.2
+        "expected_days": 4.2,
+        "buy_to_failure": 182
     },
     {
         "name": "وگردش",
@@ -2065,7 +2158,8 @@
         "free_float_share": 28,
         "order_value": 40,
         "ath_diff": null,
-        "expected_days": 3.0
+        "expected_days": 3.0,
+        "buy_to_failure": 64
     },
     {
         "name": "زفارس",
@@ -2087,7 +2181,8 @@
         "free_float_share": 20,
         "order_value": 128,
         "ath_diff": null,
-        "expected_days": 12.9
+        "expected_days": 12.9,
+        "buy_to_failure": 83
     },
     {
         "name": "خراسان",
@@ -2109,7 +2204,8 @@
         "free_float_share": 8,
         "order_value": 509,
         "ath_diff": null,
-        "expected_days": 2.1
+        "expected_days": 2.1,
+        "buy_to_failure": 406
     },
     {
         "name": "غپونه",
@@ -2131,7 +2227,8 @@
         "free_float_share": 15,
         "order_value": 118,
         "ath_diff": null,
-        "expected_days": 5.6
+        "expected_days": 5.6,
+        "buy_to_failure": 126
     },
     {
         "name": "وخارزم",
@@ -2153,7 +2250,8 @@
         "free_float_share": 35,
         "order_value": 155,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "وپخش",
@@ -2175,7 +2273,8 @@
         "free_float_share": 10,
         "order_value": 300,
         "ath_diff": null,
-        "expected_days": 14.9
+        "expected_days": 14.9,
+        "buy_to_failure": 224
     },
     {
         "name": "حفاری",
@@ -2197,7 +2296,8 @@
         "free_float_share": 39,
         "order_value": 169,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "وخاور",
@@ -2219,7 +2319,8 @@
         "free_float_share": 71,
         "order_value": 147,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 0
     },
     {
         "name": "دسبحان",
@@ -2241,7 +2342,8 @@
         "free_float_share": 20,
         "order_value": 146,
         "ath_diff": null,
-        "expected_days": 2.5
+        "expected_days": 2.5,
+        "buy_to_failure": 73
     },
     {
         "name": "حپارسا",
@@ -2263,7 +2365,8 @@
         "free_float_share": 22,
         "order_value": 109,
         "ath_diff": null,
-        "expected_days": 80.0
+        "expected_days": 80.0,
+        "buy_to_failure": 174
     },
     {
         "name": "وپارس",
@@ -2285,7 +2388,8 @@
         "free_float_share": 20,
         "order_value": 64,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "زگلدشت",
@@ -2307,7 +2411,8 @@
         "free_float_share": 26,
         "order_value": 152,
         "ath_diff": null,
-        "expected_days": 4.0
+        "expected_days": 4.0,
+        "buy_to_failure": 140
     },
     {
         "name": "آردینه",
@@ -2329,7 +2434,8 @@
         "free_float_share": 17,
         "order_value": 208,
         "ath_diff": null,
-        "expected_days": 12.9
+        "expected_days": 12.9,
+        "buy_to_failure": 161
     },
     {
         "name": "دوایکس",
@@ -2351,7 +2457,8 @@
         "free_float_share": 51,
         "order_value": 143,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "زکوثر",
@@ -2373,7 +2480,8 @@
         "free_float_share": 20,
         "order_value": 379,
         "ath_diff": null,
-        "expected_days": 66.4
+        "expected_days": 66.4,
+        "buy_to_failure": 252
     },
     {
         "name": "دالبر",
@@ -2395,7 +2503,8 @@
         "free_float_share": 21,
         "order_value": 110,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 0
     },
     {
         "name": "جوین",
@@ -2417,7 +2526,8 @@
         "free_float_share": 51,
         "order_value": 148,
         "ath_diff": null,
-        "expected_days": 71.0
+        "expected_days": 71.0,
+        "buy_to_failure": 105
     },
     {
         "name": "تبرک",
@@ -2439,7 +2549,8 @@
         "free_float_share": 6,
         "order_value": 140,
         "ath_diff": null,
-        "expected_days": 1.8
+        "expected_days": 1.8,
+        "buy_to_failure": 23
     },
     {
         "name": "دزهراوی",
@@ -2461,7 +2572,8 @@
         "free_float_share": 20,
         "order_value": 79,
         "ath_diff": null,
-        "expected_days": 21.4
+        "expected_days": 21.4,
+        "buy_to_failure": 101
     },
     {
         "name": "قثابت",
@@ -2483,7 +2595,8 @@
         "free_float_share": 78,
         "order_value": 107,
         "ath_diff": null,
-        "expected_days": 4.6
+        "expected_days": 4.6,
+        "buy_to_failure": 69
     },
     {
         "name": "شرانل",
@@ -2505,7 +2618,8 @@
         "free_float_share": 11,
         "order_value": 721,
         "ath_diff": null,
-        "expected_days": 0.9
+        "expected_days": 0.9,
+        "buy_to_failure": 0
     },
     {
         "name": "شمواد",
@@ -2527,7 +2641,8 @@
         "free_float_share": 39,
         "order_value": 109,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 74
     },
     {
         "name": "کربن",
@@ -2549,7 +2664,8 @@
         "free_float_share": 27,
         "order_value": 133,
         "ath_diff": null,
-        "expected_days": 23.7
+        "expected_days": 23.7,
+        "buy_to_failure": 126
     },
     {
         "name": "شپلی",
@@ -2571,7 +2687,8 @@
         "free_float_share": 48,
         "order_value": 137,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 69
     },
     {
         "name": "زاگرس",
@@ -2593,7 +2710,8 @@
         "free_float_share": 10,
         "order_value": 960,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "چخزر",
@@ -2615,7 +2733,8 @@
         "free_float_share": 17,
         "order_value": 685,
         "ath_diff": null,
-        "expected_days": 5.4
+        "expected_days": 5.4,
+        "buy_to_failure": 444
     },
     {
         "name": "سفانو",
@@ -2637,7 +2756,8 @@
         "free_float_share": 14,
         "order_value": 447,
         "ath_diff": null,
-        "expected_days": 1.8
+        "expected_days": 1.8,
+        "buy_to_failure": 306
     },
     {
         "name": "غویتا",
@@ -2659,7 +2779,8 @@
         "free_float_share": 36,
         "order_value": 140,
         "ath_diff": null,
-        "expected_days": 1.9
+        "expected_days": 1.9,
+        "buy_to_failure": 146
     },
     {
         "name": "مزه",
@@ -2681,7 +2802,8 @@
         "free_float_share": 27,
         "order_value": 183,
         "ath_diff": null,
-        "expected_days": 4.0
+        "expected_days": 4.0,
+        "buy_to_failure": 95
     },
     {
         "name": "سهگمت",
@@ -2703,7 +2825,8 @@
         "free_float_share": 20,
         "order_value": 755,
         "ath_diff": null,
-        "expected_days": 2.5
+        "expected_days": 2.5,
+        "buy_to_failure": 378
     },
     {
         "name": "سنیر",
@@ -2725,7 +2848,8 @@
         "free_float_share": 24,
         "order_value": 124,
         "ath_diff": null,
-        "expected_days": 1.5
+        "expected_days": 1.5,
+        "buy_to_failure": 0
     },
     {
         "name": "بهپاک",
@@ -2747,7 +2871,8 @@
         "free_float_share": 29,
         "order_value": 124,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "دسینا",
@@ -2769,7 +2894,8 @@
         "free_float_share": 13,
         "order_value": 578,
         "ath_diff": null,
-        "expected_days": 71.5
+        "expected_days": 71.5,
+        "buy_to_failure": 413
     },
     {
         "name": "سغرب",
@@ -2791,7 +2917,8 @@
         "free_float_share": 18,
         "order_value": 169,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "نان",
@@ -2813,7 +2940,8 @@
         "free_float_share": 11,
         "order_value": 103,
         "ath_diff": null,
-        "expected_days": 1.1
+        "expected_days": 1.1,
+        "buy_to_failure": 78
     },
     {
         "name": "پلاست",
@@ -2835,7 +2963,8 @@
         "free_float_share": 31,
         "order_value": 98,
         "ath_diff": null,
-        "expected_days": 54.0
+        "expected_days": 54.0,
+        "buy_to_failure": 0
     },
     {
         "name": "فسوژ",
@@ -2857,7 +2986,8 @@
         "free_float_share": 41,
         "order_value": 190,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "زمگسا",
@@ -2879,7 +3009,8 @@
         "free_float_share": 26,
         "order_value": 709,
         "ath_diff": null,
-        "expected_days": 33.9
+        "expected_days": 33.9,
+        "buy_to_failure": 240
     },
     {
         "name": "قاسم",
@@ -2901,7 +3032,8 @@
         "free_float_share": 16,
         "order_value": 74,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 0
     },
     {
         "name": "ساوه",
@@ -2923,7 +3055,8 @@
         "free_float_share": 11,
         "order_value": 108,
         "ath_diff": null,
-        "expected_days": 20.5
+        "expected_days": 20.5,
+        "buy_to_failure": 111
     },
     {
         "name": "غزر",
@@ -2945,7 +3078,8 @@
         "free_float_share": 21,
         "order_value": 124,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "غمایه",
@@ -2967,7 +3101,8 @@
         "free_float_share": 15,
         "order_value": 163,
         "ath_diff": null,
-        "expected_days": 3.4
+        "expected_days": 3.4,
+        "buy_to_failure": 349
     },
     {
         "name": "فنر",
@@ -2989,7 +3124,8 @@
         "free_float_share": 10,
         "order_value": 118,
         "ath_diff": null,
-        "expected_days": 4.9
+        "expected_days": 4.9,
+        "buy_to_failure": 0
     },
     {
         "name": "سشمال",
@@ -3011,7 +3147,8 @@
         "free_float_share": 17,
         "order_value": 149,
         "ath_diff": null,
-        "expected_days": 3.9
+        "expected_days": 3.9,
+        "buy_to_failure": 87
     },
     {
         "name": "آلومینا",
@@ -3033,7 +3170,8 @@
         "free_float_share": 6,
         "order_value": 715,
         "ath_diff": null,
-        "expected_days": 0.7
+        "expected_days": 0.7,
+        "buy_to_failure": 0
     },
     {
         "name": "سبزوا",
@@ -3055,7 +3193,8 @@
         "free_float_share": 63,
         "order_value": 160,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "سصفها",
@@ -3077,7 +3216,8 @@
         "free_float_share": 14,
         "order_value": 235,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "وبشهر",
@@ -3099,7 +3239,8 @@
         "free_float_share": 18,
         "order_value": 173,
         "ath_diff": null,
-        "expected_days": 1.3
+        "expected_days": 1.3,
+        "buy_to_failure": 0
     },
     {
         "name": "تکنو",
@@ -3121,7 +3262,8 @@
         "free_float_share": 30,
         "order_value": 145,
         "ath_diff": null,
-        "expected_days": 9.2
+        "expected_days": 9.2,
+        "buy_to_failure": 147
     },
     {
         "name": "شیران",
@@ -3143,7 +3285,8 @@
         "free_float_share": 14,
         "order_value": 150,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "سکرد",
@@ -3165,7 +3308,8 @@
         "free_float_share": 14,
         "order_value": 112,
         "ath_diff": null,
-        "expected_days": 1.7
+        "expected_days": 1.7,
+        "buy_to_failure": 99
     },
     {
         "name": "سبهان",
@@ -3187,7 +3331,8 @@
         "free_float_share": 23,
         "order_value": 104,
         "ath_diff": null,
-        "expected_days": 10.9
+        "expected_days": 10.9,
+        "buy_to_failure": 136
     },
     {
         "name": "ولملت",
@@ -3209,7 +3354,8 @@
         "free_float_share": 14,
         "order_value": 102,
         "ath_diff": null,
-        "expected_days": 42.4
+        "expected_days": 42.4,
+        "buy_to_failure": 43
     },
     {
         "name": "کدما",
@@ -3231,7 +3377,8 @@
         "free_float_share": 51,
         "order_value": 604,
         "ath_diff": null,
-        "expected_days": 17.7
+        "expected_days": 17.7,
+        "buy_to_failure": 535
     },
     {
         "name": "سرچشمه",
@@ -3253,7 +3400,8 @@
         "free_float_share": 35,
         "order_value": 100,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "فنورد",
@@ -3275,7 +3423,8 @@
         "free_float_share": 33,
         "order_value": 122,
         "ath_diff": null,
-        "expected_days": 13.3
+        "expected_days": 13.3,
+        "buy_to_failure": 114
     },
     {
         "name": "سمان",
@@ -3297,7 +3446,8 @@
         "free_float_share": 15,
         "order_value": 302,
         "ath_diff": null,
-        "expected_days": 13.7
+        "expected_days": 13.7,
+        "buy_to_failure": 165
     },
     {
         "name": "رانفور",
@@ -3319,7 +3469,8 @@
         "free_float_share": 5,
         "order_value": 161,
         "ath_diff": null,
-        "expected_days": 2.6
+        "expected_days": 2.6,
+        "buy_to_failure": 63
     },
     {
         "name": "صبا",
@@ -3341,7 +3492,8 @@
         "free_float_share": 13,
         "order_value": 165,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 0
     },
     {
         "name": "ساربیل",
@@ -3363,7 +3515,8 @@
         "free_float_share": 6,
         "order_value": 808,
         "ath_diff": null,
-        "expected_days": 0.8
+        "expected_days": 0.8,
+        "buy_to_failure": 136
     },
     {
         "name": "زملارد",
@@ -3385,7 +3538,8 @@
         "free_float_share": 21,
         "order_value": 40,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "دسبحا",
@@ -3407,7 +3561,8 @@
         "free_float_share": 23,
         "order_value": 132,
         "ath_diff": null,
-        "expected_days": 1.5
+        "expected_days": 1.5,
+        "buy_to_failure": 85
     },
     {
         "name": "دتولید",
@@ -3429,7 +3584,8 @@
         "free_float_share": 48,
         "order_value": 110,
         "ath_diff": null,
-        "expected_days": 2.1
+        "expected_days": 2.1,
+        "buy_to_failure": 42
     },
     {
         "name": "شکام",
@@ -3451,7 +3607,8 @@
         "free_float_share": 31,
         "order_value": 181,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "افرا",
@@ -3473,7 +3630,8 @@
         "free_float_share": 30,
         "order_value": 104,
         "ath_diff": null,
-        "expected_days": 5.4
+        "expected_days": 5.4,
+        "buy_to_failure": 62
     },
     {
         "name": "ددام",
@@ -3495,7 +3653,8 @@
         "free_float_share": 18,
         "order_value": 131,
         "ath_diff": null,
-        "expected_days": 3.0
+        "expected_days": 3.0,
+        "buy_to_failure": 31
     },
     {
         "name": "کلر",
@@ -3517,7 +3676,8 @@
         "free_float_share": 25,
         "order_value": 194,
         "ath_diff": null,
-        "expected_days": 0.7
+        "expected_days": 0.7,
+        "buy_to_failure": 0
     },
     {
         "name": "شاراک",
@@ -3539,7 +3699,8 @@
         "free_float_share": 17,
         "order_value": 143,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "فوکا",
@@ -3561,7 +3722,8 @@
         "free_float_share": 6,
         "order_value": 118,
         "ath_diff": null,
-        "expected_days": 2.6
+        "expected_days": 2.6,
+        "buy_to_failure": 95
     },
     {
         "name": "فاراک",
@@ -3583,7 +3745,8 @@
         "free_float_share": 55,
         "order_value": 54,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "کفرا",
@@ -3605,7 +3768,8 @@
         "free_float_share": 29,
         "order_value": 59,
         "ath_diff": null,
-        "expected_days": 0.8
+        "expected_days": 0.8,
+        "buy_to_failure": 0
     },
     {
         "name": "آسیا",
@@ -3627,7 +3791,8 @@
         "free_float_share": 15,
         "order_value": 102,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "غشصفا",
@@ -3649,7 +3814,8 @@
         "free_float_share": 33,
         "order_value": 148,
         "ath_diff": null,
-        "expected_days": 2.9
+        "expected_days": 2.9,
+        "buy_to_failure": 0
     },
     {
         "name": "سیدکو",
@@ -3671,7 +3837,8 @@
         "free_float_share": 8,
         "order_value": 399,
         "ath_diff": null,
-        "expected_days": 1.6
+        "expected_days": 1.6,
+        "buy_to_failure": 243
     },
     {
         "name": "رایا",
@@ -3693,7 +3860,8 @@
         "free_float_share": 19,
         "order_value": 94,
         "ath_diff": null,
-        "expected_days": 228.6
+        "expected_days": 228.6,
+        "buy_to_failure": 0
     },
     {
         "name": "دبالک",
@@ -3715,7 +3883,8 @@
         "free_float_share": 39,
         "order_value": 191,
         "ath_diff": null,
-        "expected_days": 2.2
+        "expected_days": 2.2,
+        "buy_to_failure": 105
     },
     {
         "name": "سیمانا",
@@ -3737,7 +3906,8 @@
         "free_float_share": 10,
         "order_value": 278,
         "ath_diff": null,
-        "expected_days": 40.9
+        "expected_days": 40.9,
+        "buy_to_failure": 227
     },
     {
         "name": "ارزش مسکن",
@@ -3759,7 +3929,8 @@
         "free_float_share": 63,
         "order_value": 312,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "سخوز",
@@ -3781,7 +3952,8 @@
         "free_float_share": 27,
         "order_value": 511,
         "ath_diff": null,
-        "expected_days": 18.7
+        "expected_days": 18.7,
+        "buy_to_failure": 382
     },
     {
         "name": "دکپسول",
@@ -3803,7 +3975,8 @@
         "free_float_share": 21,
         "order_value": 870,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "نطرین",
@@ -3825,7 +3998,8 @@
         "free_float_share": 37,
         "order_value": 137,
         "ath_diff": null,
-        "expected_days": 18.9
+        "expected_days": 18.9,
+        "buy_to_failure": 181
     },
     {
         "name": "سیمانیا",
@@ -3847,7 +4021,8 @@
         "free_float_share": 12,
         "order_value": 251,
         "ath_diff": null,
-        "expected_days": 1575.0
+        "expected_days": 1575.0,
+        "buy_to_failure": 0
     },
     {
         "name": "چدن",
@@ -3869,7 +4044,8 @@
         "free_float_share": 35,
         "order_value": 85,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "هانیکو",
@@ -3891,7 +4067,8 @@
         "free_float_share": 12,
         "order_value": 164,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "سهرمز",
@@ -3913,7 +4090,8 @@
         "free_float_share": 14,
         "order_value": 221,
         "ath_diff": null,
-        "expected_days": 7.3
+        "expected_days": 7.3,
+        "buy_to_failure": 145
     },
     {
         "name": "دفرا",
@@ -3935,7 +4113,8 @@
         "free_float_share": 17,
         "order_value": 271,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 131
     },
     {
         "name": "غگز",
@@ -3957,7 +4136,8 @@
         "free_float_share": 49,
         "order_value": 101,
         "ath_diff": null,
-        "expected_days": 1.6
+        "expected_days": 1.6,
+        "buy_to_failure": 0
     },
     {
         "name": "فن افزار",
@@ -3979,7 +4159,8 @@
         "free_float_share": 38,
         "order_value": 146,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "ساروج",
@@ -4001,7 +4182,8 @@
         "free_float_share": 13,
         "order_value": 581,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 183
     },
     {
         "name": "غانیزان",
@@ -4023,7 +4205,8 @@
         "free_float_share": 22,
         "order_value": 140,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "فپنتا",
@@ -4045,7 +4228,8 @@
         "free_float_share": 32,
         "order_value": 322,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 15
     },
     {
         "name": "سمتاز",
@@ -4067,7 +4251,8 @@
         "free_float_share": 32,
         "order_value": 444,
         "ath_diff": null,
-        "expected_days": 3.3
+        "expected_days": 3.3,
+        "buy_to_failure": 220
     },
     {
         "name": "غگلپا",
@@ -4089,7 +4274,8 @@
         "free_float_share": 21,
         "order_value": 131,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 0
     },
     {
         "name": "شپترو",
@@ -4111,7 +4297,8 @@
         "free_float_share": 39,
         "order_value": 56,
         "ath_diff": null,
-        "expected_days": 1.6
+        "expected_days": 1.6,
+        "buy_to_failure": 0
     },
     {
         "name": "سخاش",
@@ -4133,7 +4320,8 @@
         "free_float_share": 22,
         "order_value": 118,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "فنوال",
@@ -4155,7 +4343,8 @@
         "free_float_share": 21,
         "order_value": 144,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "زشریف",
@@ -4177,7 +4366,8 @@
         "free_float_share": 23,
         "order_value": 133,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "گشان",
@@ -4199,7 +4389,8 @@
         "free_float_share": 77,
         "order_value": 190,
         "ath_diff": null,
-        "expected_days": 2.3
+        "expected_days": 2.3,
+        "buy_to_failure": 223
     },
     {
         "name": "غاذر",
@@ -4221,7 +4412,8 @@
         "free_float_share": 51,
         "order_value": 190,
         "ath_diff": null,
-        "expected_days": 4.9
+        "expected_days": 4.9,
+        "buy_to_failure": 121
     },
     {
         "name": "بورس",
@@ -4243,7 +4435,8 @@
         "free_float_share": 46,
         "order_value": 159,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "تکیمیا",
@@ -4265,7 +4458,8 @@
         "free_float_share": 20,
         "order_value": 59,
         "ath_diff": null,
-        "expected_days": 17.2
+        "expected_days": 17.2,
+        "buy_to_failure": 30
     },
     {
         "name": "زشگزا",
@@ -4287,7 +4481,8 @@
         "free_float_share": 43,
         "order_value": 306,
         "ath_diff": null,
-        "expected_days": 0.0
+        "expected_days": 0.0,
+        "buy_to_failure": 0
     },
     {
         "name": "کلید",
@@ -4309,7 +4504,8 @@
         "free_float_share": 61,
         "order_value": 146,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "شفارس",
@@ -4331,7 +4527,8 @@
         "free_float_share": 31,
         "order_value": 62,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "خمحرکه",
@@ -4353,7 +4550,8 @@
         "free_float_share": 38,
         "order_value": 165,
         "ath_diff": null,
-        "expected_days": 1.0
+        "expected_days": 1.0,
+        "buy_to_failure": 0
     },
     {
         "name": "سیلام",
@@ -4375,7 +4573,8 @@
         "free_float_share": 13,
         "order_value": 147,
         "ath_diff": null,
-        "expected_days": 26.6
+        "expected_days": 26.6,
+        "buy_to_failure": 39
     },
     {
         "name": "وکادو",
@@ -4397,7 +4596,8 @@
         "free_float_share": 36,
         "order_value": 97,
         "ath_diff": null,
-        "expected_days": 4.5
+        "expected_days": 4.5,
+        "buy_to_failure": 96
     },
     {
         "name": "شصفها",
@@ -4419,7 +4619,8 @@
         "free_float_share": 16,
         "order_value": 916,
         "ath_diff": null,
-        "expected_days": 15.7
+        "expected_days": 15.7,
+        "buy_to_failure": 863
     },
     {
         "name": "شفا",
@@ -4441,7 +4642,8 @@
         "free_float_share": 9,
         "order_value": 195,
         "ath_diff": null,
-        "expected_days": 7.2
+        "expected_days": 7.2,
+        "buy_to_failure": 211
     },
     {
         "name": "زماهان",
@@ -4463,7 +4665,8 @@
         "free_float_share": 30,
         "order_value": 107,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "سیمرغ",
@@ -4485,7 +4688,8 @@
         "free_float_share": 24,
         "order_value": 115,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "کباده",
@@ -4507,7 +4711,8 @@
         "free_float_share": 32,
         "order_value": 177,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "فافق",
@@ -4529,7 +4734,8 @@
         "free_float_share": 28,
         "order_value": 186,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "شملی",
@@ -4551,7 +4757,8 @@
         "free_float_share": 26,
         "order_value": 174,
         "ath_diff": null,
-        "expected_days": 1.9
+        "expected_days": 1.9,
+        "buy_to_failure": 0
     },
     {
         "name": "تسه1404",
@@ -4573,7 +4780,8 @@
         "free_float_share": 100,
         "order_value": 4890,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "سخواف",
@@ -4595,7 +4803,8 @@
         "free_float_share": 70,
         "order_value": 142,
         "ath_diff": null,
-        "expected_days": 18.7
+        "expected_days": 18.7,
+        "buy_to_failure": 133
     },
     {
         "name": "دسانکو",
@@ -4617,7 +4826,8 @@
         "free_float_share": 21,
         "order_value": 69,
         "ath_diff": null,
-        "expected_days": 3.1
+        "expected_days": 3.1,
+        "buy_to_failure": 43
     },
     {
         "name": "عالیس",
@@ -4639,7 +4849,8 @@
         "free_float_share": 13,
         "order_value": 168,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "درهآور",
@@ -4661,7 +4872,8 @@
         "free_float_share": 23,
         "order_value": 120,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "فزرین",
@@ -4683,7 +4895,8 @@
         "free_float_share": 36,
         "order_value": 143,
         "ath_diff": null,
-        "expected_days": 4.0
+        "expected_days": 4.0,
+        "buy_to_failure": 177
     },
     {
         "name": "دامین",
@@ -4705,7 +4918,8 @@
         "free_float_share": 24,
         "order_value": 111,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "دانیک",
@@ -4727,7 +4941,8 @@
         "free_float_share": 55,
         "order_value": 136,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "نمک",
@@ -4749,7 +4964,8 @@
         "free_float_share": 40,
         "order_value": 216,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "قچار",
@@ -4771,7 +4987,8 @@
         "free_float_share": 35,
         "order_value": 176,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "دیران",
@@ -4793,7 +5010,8 @@
         "free_float_share": 44,
         "order_value": 187,
         "ath_diff": null,
-        "expected_days": 0.7
+        "expected_days": 0.7,
+        "buy_to_failure": 0
     },
     {
         "name": "داسوه",
@@ -4815,7 +5033,8 @@
         "free_float_share": 9,
         "order_value": 301,
         "ath_diff": null,
-        "expected_days": 176.3
+        "expected_days": 176.3,
+        "buy_to_failure": 0
     },
     {
         "name": "تاصیکو",
@@ -4837,7 +5056,8 @@
         "free_float_share": 15,
         "order_value": 123,
         "ath_diff": null,
-        "expected_days": 0.0
+        "expected_days": 0.0,
+        "buy_to_failure": 0
     },
     {
         "name": "شارپیلن",
@@ -4859,7 +5079,8 @@
         "free_float_share": 2,
         "order_value": 121,
         "ath_diff": null,
-        "expected_days": 23.5
+        "expected_days": 23.5,
+        "buy_to_failure": 114
     },
     {
         "name": "ثجوان",
@@ -4881,7 +5102,8 @@
         "free_float_share": 6,
         "order_value": 59,
         "ath_diff": null,
-        "expected_days": 1.3
+        "expected_days": 1.3,
+        "buy_to_failure": 0
     },
     {
         "name": "دشیمی",
@@ -4903,7 +5125,8 @@
         "free_float_share": 18,
         "order_value": 195,
         "ath_diff": null,
-        "expected_days": 3.9
+        "expected_days": 3.9,
+        "buy_to_failure": 395
     },
     {
         "name": "غشوکو",
@@ -4925,7 +5148,8 @@
         "free_float_share": 25,
         "order_value": 101,
         "ath_diff": null,
-        "expected_days": 37.8
+        "expected_days": 37.8,
+        "buy_to_failure": 76
     },
     {
         "name": "سلار",
@@ -4947,7 +5171,8 @@
         "free_float_share": 41,
         "order_value": 93,
         "ath_diff": null,
-        "expected_days": 32.1
+        "expected_days": 32.1,
+        "buy_to_failure": 60
     },
     {
         "name": "خفنر",
@@ -4969,7 +5194,8 @@
         "free_float_share": 25,
         "order_value": 60,
         "ath_diff": null,
-        "expected_days": 2.2
+        "expected_days": 2.2,
+        "buy_to_failure": 37
     },
     {
         "name": "والبر",
@@ -4991,7 +5217,8 @@
         "free_float_share": 29,
         "order_value": 109,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "بپویا",
@@ -5013,7 +5240,8 @@
         "free_float_share": 7,
         "order_value": 132,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "سورنافود",
@@ -5035,7 +5263,8 @@
         "free_float_share": 21,
         "order_value": 200,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 55
     },
     {
         "name": "کخاک",
@@ -5057,7 +5286,8 @@
         "free_float_share": 16,
         "order_value": 321,
         "ath_diff": null,
-        "expected_days": 1.4
+        "expected_days": 1.4,
+        "buy_to_failure": 0
     },
     {
         "name": "سپیدار",
@@ -5079,7 +5309,8 @@
         "free_float_share": 6,
         "order_value": 103,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "کقزوی",
@@ -5101,7 +5332,8 @@
         "free_float_share": 96,
         "order_value": 20,
         "ath_diff": null,
-        "expected_days": 0.4
+        "expected_days": 0.4,
+        "buy_to_failure": 0
     },
     {
         "name": "فرا الگوریتم",
@@ -5123,7 +5355,8 @@
         "free_float_share": 8,
         "order_value": 217,
         "ath_diff": null,
-        "expected_days": 9.4
+        "expected_days": 9.4,
+        "buy_to_failure": 163
     },
     {
         "name": "غدام",
@@ -5145,7 +5378,8 @@
         "free_float_share": 35,
         "order_value": 458,
         "ath_diff": null,
-        "expected_days": 5.9
+        "expected_days": 5.9,
+        "buy_to_failure": 189
     },
     {
         "name": "وبشهرح",
@@ -5167,7 +5401,8 @@
         "free_float_share": 18,
         "order_value": 104,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     },
     {
         "name": "حسیر",
@@ -5189,7 +5424,8 @@
         "free_float_share": 32,
         "order_value": 169,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "قشرین",
@@ -5211,7 +5447,8 @@
         "free_float_share": 47,
         "order_value": 100,
         "ath_diff": null,
-        "expected_days": 1.4
+        "expected_days": 1.4,
+        "buy_to_failure": 60
     },
     {
         "name": "فارمانی",
@@ -5233,7 +5470,8 @@
         "free_float_share": 9,
         "order_value": 161,
         "ath_diff": null,
-        "expected_days": 26.2
+        "expected_days": 26.2,
+        "buy_to_failure": 42
     },
     {
         "name": "زکشت",
@@ -5255,7 +5493,8 @@
         "free_float_share": 22,
         "order_value": 176,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "غگل",
@@ -5277,7 +5516,8 @@
         "free_float_share": 25,
         "order_value": 130,
         "ath_diff": null,
-        "expected_days": 0.2
+        "expected_days": 0.2,
+        "buy_to_failure": 0
     },
     {
         "name": "دکیمی",
@@ -5299,7 +5539,8 @@
         "free_float_share": 30,
         "order_value": 226,
         "ath_diff": null,
-        "expected_days": 56.2
+        "expected_days": 56.2,
+        "buy_to_failure": 762
     },
     {
         "name": "بتهران",
@@ -5321,7 +5562,8 @@
         "free_float_share": 18,
         "order_value": 106,
         "ath_diff": null,
-        "expected_days": 0.7
+        "expected_days": 0.7,
+        "buy_to_failure": 0
     },
     {
         "name": "چاشنی",
@@ -5343,7 +5585,8 @@
         "free_float_share": 31,
         "order_value": 136,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "وساخت",
@@ -5365,7 +5608,8 @@
         "free_float_share": 27,
         "order_value": 51,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "کمرجان",
@@ -5387,7 +5631,8 @@
         "free_float_share": 46,
         "order_value": 126,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "بانکا",
@@ -5409,7 +5654,8 @@
         "free_float_share": 18,
         "order_value": 138,
         "ath_diff": null,
-        "expected_days": 1.1
+        "expected_days": 1.1,
+        "buy_to_failure": 0
     },
     {
         "name": "خمحور",
@@ -5431,7 +5677,8 @@
         "free_float_share": 10,
         "order_value": 171,
         "ath_diff": null,
-        "expected_days": 1.1
+        "expected_days": 1.1,
+        "buy_to_failure": 0
     },
     {
         "name": "غشاذر",
@@ -5453,7 +5700,8 @@
         "free_float_share": 23,
         "order_value": 138,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "فروی",
@@ -5475,7 +5723,8 @@
         "free_float_share": 40,
         "order_value": 98,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "دپارس",
@@ -5497,7 +5746,8 @@
         "free_float_share": 18,
         "order_value": 363,
         "ath_diff": null,
-        "expected_days": 0.5
+        "expected_days": 0.5,
+        "buy_to_failure": 0
     },
     {
         "name": "درپاد",
@@ -5519,7 +5769,8 @@
         "free_float_share": 18,
         "order_value": 196,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "پدرخش",
@@ -5541,7 +5792,8 @@
         "free_float_share": 58,
         "order_value": 103,
         "ath_diff": null,
-        "expected_days": 0.1
+        "expected_days": 0.1,
+        "buy_to_failure": 0
     },
     {
         "name": "ثباغ",
@@ -5563,7 +5815,8 @@
         "free_float_share": 15,
         "order_value": 197,
         "ath_diff": null,
-        "expected_days": 1.2
+        "expected_days": 1.2,
+        "buy_to_failure": 0
     },
     {
         "name": "غشان",
@@ -5585,7 +5838,8 @@
         "free_float_share": 26,
         "order_value": 123,
         "ath_diff": null,
-        "expected_days": 0.3
+        "expected_days": 0.3,
+        "buy_to_failure": 0
     },
     {
         "name": "انتخاب",
@@ -5607,6 +5861,7 @@
         "free_float_share": 5,
         "order_value": 43,
         "ath_diff": null,
-        "expected_days": 0.6
+        "expected_days": 0.6,
+        "buy_to_failure": 0
     }
 ]
