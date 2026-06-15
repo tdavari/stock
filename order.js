@@ -16,8 +16,10 @@
 
   const params = getQueryParams();
 
-  let button = document.querySelector("#send_order_btnSendOrder") || 
-               document.querySelector(".footer .send");
+  let button =
+    document.querySelector('[ng-click="sendBasketOrder()"]') ||
+    document.querySelector("#send_order_btnSendOrder") ||
+    document.querySelector(".footer .send");
 
   if (!button) {
     alert("🚫 دکمه خرید پیدا نشد! لطفاً مطمئن شو در صفحه‌ی خرید هستی.");
@@ -52,27 +54,29 @@
       })();
     `;
 
-    const blob = new Blob([workerCode], { type: 'application/javascript' });
+    const blob = new Blob([workerCode], { type: "application/javascript" });
     const workerUrl = URL.createObjectURL(blob);
     const worker = new Worker(workerUrl);
     const startTime = Date.now();
 
-    worker.onmessage = function(e) {
-      if (e.data.action === 'click') {
+    worker.onmessage = function (e) {
+      if (e.data.action === "click") {
         button.click();
         console.log("✅ Clicked");
-      } else if (e.data.action === 'stop') {
+      } else if (e.data.action === "stop") {
         const totalSeconds = Math.floor((Date.now() - startTime) / 1000);
         worker.terminate();
         URL.revokeObjectURL(workerUrl);
-        console.log("✅ عملیات کلیک متوقف شد. (کل زمان: " + totalSeconds + " ثانیه)");
+        console.log(
+          "✅ عملیات کلیک متوقف شد. (کل زمان: " + totalSeconds + " ثانیه)"
+        );
       }
     };
 
     worker.postMessage({
-      action: 'start',
+      action: "start",
       interval: params.interval,
-      duration: params.duration
+      duration: params.duration,
     });
   }
 })();
