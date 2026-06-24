@@ -9,21 +9,47 @@ $(document).ready(function () {
     const ctx = document.getElementById("watchChart");
   
     const chart = new Chart(ctx, {
-      type: "line",
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            label: "Indicator",
-            data: values,
-            borderColor: "blue",
-            fill: false,
-            tension: 0.2,
+        type: "line",
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: "Indicator",
+              data: values,
+              borderColor: "blue",
+              fill: false,
+              tension: 0.2,
+            },
+          ],
+        },
+      
+        options: {
+          responsive: true,
+      
+          scales: {
+            y: {
+              min: -3,
+              max: 3,
+            },
           },
+        },
+      });
+
+    const scoreTable = $("#scoreTable").DataTable({
+        data: [],
+        columns: [
+          { data: "symbol" },
+          { data: "score" },
+          { data: "queue_ratio" },
         ],
-      },
+      
+        order: [
+          [1, "desc"], // ابتدا score
+          [2, "desc"], // سپس queue ratio
+        ],
+      
+        pageLength: 25,
     });
-  
     //---------------------------------------------------
     // Helpers
     //---------------------------------------------------
@@ -57,6 +83,8 @@ $(document).ready(function () {
               volume: Number(fields[9]),
               value: Number(fields[10]),
               yesterday_price: Number(fields[13]),
+              max_allowed_price: Number(fields[19]),
+              min_allowed_price: Number(fields[20]),
             },
   
             orderbook: [],
@@ -138,8 +166,85 @@ $(document).ready(function () {
     
         if (count === 0) return 0;
     
-        return sumGrowth / count;
+        return Number((sumGrowth / count).toFixed(1));
     }
+
+    function calculateScores(stocks, marketAvg) {
+        const scores = [];
+      
+        for (const inscode in stocks) {
+          const stock = stocks[inscode];
+          const info = stock.info;
+      
+          if (!filterSymbol(info.symbol)) continue;
+      
+          const lastPrice = info.last_price;
+          const yesterdayPrice = info.yesterday_price;
+      
+          if (!yesterdayPrice) continue;
+      
+          let growth =
+            ((lastPrice - yesterdayPrice) / yesterdayPrice) * 100;
+      
+          // سقف/کف
+          if (parseInt(info.max_allowed_price) === parseInt(lastPrice)) {
+            growth = 3;
+          }
+      
+          if (parseInt(info.min_allowed_price) === parseInt(lastPrice)) {
+            growth = -3;
+          }
+      
+          // محدودسازی
+          growth = Math.max(-3, Math.min(3, growth));
+      
+          //------------------------------------
+          // Queue Ratio
+          //------------------------------------
+      
+          let queueRatio = "";
+      
+          const row1 = stock.orderbook.find(ob => ob.row === 1);
+      
+          if (row1) {
+      
+            // صف خرید
+            if (parseInt(info.max_allowed_price) === parseInt(lastPrice)) {
+      
+              if (info.volume > 0) {
+                queueRatio = (
+                  row1.buy_volume / info.volume
+                ).toFixed(1);
+              }
+            }
+      
+            // صف فروش
+            else if (parseInt(info.min_allowed_price) === parseInt(lastPrice)) {
+      
+              if (row1.sell_volume > 0) {
+                queueRatio = (
+                  info.volume / row1.sell_volume
+                ).toFixed(1);
+              }
+            }
+          }
+      
+          scores.push({
+            symbol: info.symbol,
+      
+            score: Number(
+              (growth - marketAvg).toFixed(1)
+            ),
+      
+            queue_ratio:
+              queueRatio === ""
+                ? ""
+                : Number(queueRatio),
+          });
+        }
+      
+        return scores;
+      }
     //---------------------------------------------------
     // Update
     //---------------------------------------------------
@@ -161,6 +266,7 @@ $(document).ready(function () {
         //---------------------------------------------------
   
         const result = avgGrowth(stocks);
+        const scores = calculateScores(stocks, result);
   
         //---------------------------------------------------
   
@@ -175,9 +281,15 @@ $(document).ready(function () {
         }
   
         chart.update();
+
+        scoreTable.clear();
+        scoreTable.rows.add(scores);
+        scoreTable.draw();
+
       } catch (err) {
         console.error(err);
       }
+
     }
   
     updateChart();
