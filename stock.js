@@ -26,6 +26,7 @@ $(document).ready(function () {
         { data: "ath_diff" },
         { data: "expected_days" },
         { data: "buy_to_failure" },
+        { data: "count_contest" },
       ],
       order: [[2, "desc"]],
     });
