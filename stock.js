@@ -28,6 +28,14 @@ $(document).ready(function () {
         { data: "buy_to_failure" },
         { data: "count_contest" },
       ],
+
+      columnDefs: [
+        {
+          targets: [1, ,3 , 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 20],
+          visible: false,
+        },
+      ],
+
       order: [[2, "desc"]],
     });
   });
