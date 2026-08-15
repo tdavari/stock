@@ -27,6 +27,7 @@ $(document).ready(function () {
         { data: "expected_days" },
         { data: "buy_to_failure" },
         { data: "count_contest" },
+        { data: "status" },
       ],
 
       columnDefs: [
