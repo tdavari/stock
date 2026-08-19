@@ -32,7 +32,7 @@ $(document).ready(function () {
 
       columnDefs: [
         {
-          targets: [1, 2, 3, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 20],
+          targets: [1, 2, 3, 8, 9, 10, 11, 12, 13, 14, 15, 18, 20],
           visible: false,
         },
       ],
