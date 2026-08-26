@@ -161,4 +161,112 @@ $(document).ready(function () {
     .fail(function () {
       console.error("Error fetching data from the API");
     });
+
+  const apiCodal =
+  "https://search.codal.ir/api/search/v2/q?" +
+  "Audited=true" +
+  "&AuditorRef=-1" +
+  "&Category=-1" +
+  "&Childs=true" +
+  "&CompanyState=-1" +
+  "&CompanyType=-1" +
+  "&Consolidatable=true" +
+  "&IsNotAudited=false" +
+  "&Length=-1" +
+  "&LetterType=11" +
+  "&Mains=true" +
+  "&NotAudited=true" +
+  "&NotConsolidatable=true" +
+  "&PageNumber=1" +
+  "&Publisher=false" +
+  "&ReportingType=-1" +
+  "&Subject=الف" +
+  "&TracingNo=-1" +
+  "&search=true";
+
+
+$.ajax({
+  url: apiCodal,
+  method: "GET",
+  dataType: "xml",
+
+  success: function (response) {
+    const reports = [];
+
+    $(response)
+      .find("Letters > CodalLetterHeaderDto")
+      .each(function () {
+        const reportUrl = $(this).find("Url").text();
+
+        reports.push({
+          symbol: $(this).find("Symbol").text(),
+          title: $(this).find("Title").text(),
+          companyName: $(this).find("CompanyName").text(),
+          publishDate: $(this).find("PublishDateTime").text(),
+          url: reportUrl
+            ? "https://codal.ir" + reportUrl
+            : ""
+        });
+      });
+
+
+    $("#codalTable").DataTable({
+      destroy: true,
+
+      data: reports,
+
+      columns: [
+        {
+          data: "symbol",
+          title: "نماد"
+        },
+
+        {
+          data: "title",
+          title: "عنوان"
+        },
+
+        {
+          data: "companyName",
+          title: "نام شرکت"
+        },
+
+        {
+          data: "publishDate",
+          title: "تاریخ انتشار"
+        },
+
+        {
+          data: "url",
+          title: "لینک گزارش",
+
+          render: function (data) {
+            if (!data) {
+              return "-";
+            }
+
+            return `
+              <a href="${data}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                مشاهده گزارش
+              </a>
+            `;
+          }
+        }
+      ],
+
+      order: [[3, "desc"]],
+
+      language: {
+        emptyTable: "اطلاعاتی یافت نشد"
+      }
+    });
+  },
+
+  error: function (xhr, status, error) {
+    console.error("Error loading Codal data:", error);
+    console.error(xhr.responseText);
+  }
+});
 });
