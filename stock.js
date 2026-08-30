@@ -28,6 +28,7 @@ $(document).ready(function () {
         { data: "buy_to_failure" },
         { data: "count_contest" },
         { data: "status" },
+        { data: "queue_market" },
       ],
 
       columnDefs: [
@@ -163,110 +164,106 @@ $(document).ready(function () {
     });
 
   const apiCodal =
-  "https://search.codal.ir/api/search/v2/q?" +
-  "Audited=true" +
-  "&AuditorRef=-1" +
-  "&Category=-1" +
-  "&Childs=true" +
-  "&CompanyState=-1" +
-  "&CompanyType=-1" +
-  "&Consolidatable=true" +
-  "&IsNotAudited=false" +
-  "&Length=-1" +
-  "&LetterType=11" +
-  "&Mains=true" +
-  "&NotAudited=true" +
-  "&NotConsolidatable=true" +
-  "&PageNumber=1" +
-  "&Publisher=false" +
-  "&ReportingType=-1" +
-  "&Subject=الف" +
-  "&TracingNo=-1" +
-  "&search=true";
+    "https://search.codal.ir/api/search/v2/q?" +
+    "Audited=true" +
+    "&AuditorRef=-1" +
+    "&Category=-1" +
+    "&Childs=true" +
+    "&CompanyState=-1" +
+    "&CompanyType=-1" +
+    "&Consolidatable=true" +
+    "&IsNotAudited=false" +
+    "&Length=-1" +
+    "&LetterType=11" +
+    "&Mains=true" +
+    "&NotAudited=true" +
+    "&NotConsolidatable=true" +
+    "&PageNumber=1" +
+    "&Publisher=false" +
+    "&ReportingType=-1" +
+    "&Subject=الف" +
+    "&TracingNo=-1" +
+    "&search=true";
 
+  $.ajax({
+    url: apiCodal,
+    method: "GET",
+    dataType: "xml",
 
-$.ajax({
-  url: apiCodal,
-  method: "GET",
-  dataType: "xml",
+    success: function (response) {
+      const reports = [];
 
-  success: function (response) {
-    const reports = [];
+      $(response)
+        .find("Letters > CodalLetterHeaderDto")
+        .each(function () {
+          const reportUrl = $(this).find("Url").text();
 
-    $(response)
-      .find("Letters > CodalLetterHeaderDto")
-      .each(function () {
-        const reportUrl = $(this).find("Url").text();
-
-        reports.push({
-          symbol: $(this).find("Symbol").text(),
-          title: $(this).find("Title").text(),
-          companyName: $(this).find("CompanyName").text(),
-          publishDate: $(this).find("PublishDateTime").text(),
-          url: reportUrl
-            ? "https://codal.ir" + reportUrl
-            : ""
+          reports.push({
+            symbol: $(this).find("Symbol").text(),
+            title: $(this).find("Title").text(),
+            companyName: $(this).find("CompanyName").text(),
+            publishDate: $(this).find("PublishDateTime").text(),
+            url: reportUrl ? "https://codal.ir" + reportUrl : "",
+          });
         });
-      });
 
+      $("#codalTable").DataTable({
+        destroy: true,
 
-    $("#codalTable").DataTable({
-      destroy: true,
+        data: reports,
 
-      data: reports,
+        columns: [
+          {
+            data: "symbol",
+            title: "نماد",
+          },
 
-      columns: [
-        {
-          data: "symbol",
-          title: "نماد"
-        },
+          {
+            data: "title",
+            title: "عنوان",
+          },
 
-        {
-          data: "title",
-          title: "عنوان"
-        },
+          {
+            data: "companyName",
+            title: "نام شرکت",
+          },
 
-        {
-          data: "companyName",
-          title: "نام شرکت"
-        },
+          {
+            data: "publishDate",
+            title: "تاریخ انتشار",
+          },
 
-        {
-          data: "publishDate",
-          title: "تاریخ انتشار"
-        },
+          {
+            data: "url",
+            title: "لینک گزارش",
 
-        {
-          data: "url",
-          title: "لینک گزارش",
+            render: function (data) {
+              if (!data) {
+                return "-";
+              }
 
-          render: function (data) {
-            if (!data) {
-              return "-";
-            }
-
-            return `
+              return `
               <a href="${data}"
                   target="_blank"
                   rel="noopener noreferrer">
                 مشاهده گزارش
               </a>
             `;
-          }
-        }
-      ],
+            },
+          },
+        ],
 
-      order: [[3, "desc"]],
+        order: [[3, "desc"]],
 
-      language: {
-        emptyTable: "اطلاعاتی یافت نشد"
-      }
-    });
-  },
+        language: {
+          emptyTable: "اطلاعاتی یافت نشد",
+        },
+      });
+    },
 
-  error: function (xhr, status, error) {
-    console.error("Error loading Codal data:", error);
-    console.error(xhr.responseText);
-  }
-});
+    error: function (xhr, status, error) {
+      console.error("Error loading Codal data:", error);
+      console.error(xhr.responseText);
+    },
+  });
 });
