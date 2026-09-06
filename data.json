@@ -22,7 +22,8 @@
         "order_value": 148,
         "ath_diff": null,
         "expected_days": 34.2,
-        "buy_to_failure": 3
+        "buy_to_failure": 3,
+        "queue_market": 0.004374
     },
     {
         "name": "فملی",
@@ -47,7 +48,8 @@
         "order_value": 238,
         "ath_diff": null,
         "expected_days": 4.2,
-        "buy_to_failure": 38
+        "buy_to_failure": 38,
+        "queue_market": 0.000198
     },
     {
         "name": "خگلپا",
@@ -72,7 +74,8 @@
         "order_value": 121,
         "ath_diff": null,
         "expected_days": 19.0,
-        "buy_to_failure": 2
+        "buy_to_failure": 2,
+        "queue_market": 0.176
     },
     {
         "name": "فغدیر",
@@ -97,7 +100,8 @@
         "order_value": 184,
         "ath_diff": null,
         "expected_days": 131.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.027474
     },
     {
         "name": "منجیل",
@@ -122,7 +126,8 @@
         "order_value": 233,
         "ath_diff": null,
         "expected_days": 3.7,
-        "buy_to_failure": 23
+        "buy_to_failure": 23,
+        "queue_market": 0.015853
     },
     {
         "name": "سمهریز",
@@ -147,7 +152,8 @@
         "order_value": 268,
         "ath_diff": null,
         "expected_days": 3.4,
-        "buy_to_failure": 27
+        "buy_to_failure": 27,
+        "queue_market": 0.014831
     },
     {
         "name": "ذوب",
@@ -172,7 +178,8 @@
         "order_value": 197,
         "ath_diff": null,
         "expected_days": 4.5,
-        "buy_to_failure": 18
+        "buy_to_failure": 18,
+        "queue_market": 0.009705
     },
     {
         "name": "فخوز",
@@ -197,7 +204,8 @@
         "order_value": 248,
         "ath_diff": null,
         "expected_days": 5.7,
-        "buy_to_failure": 32
+        "buy_to_failure": 32,
+        "queue_market": 0.009495
     },
     {
         "name": "وبانک",
@@ -222,7 +230,8 @@
         "order_value": 114,
         "ath_diff": null,
         "expected_days": 4.3,
-        "buy_to_failure": 10
+        "buy_to_failure": 10,
+        "queue_market": 0.003349
     },
     {
         "name": "سرچشمه",
@@ -247,7 +256,8 @@
         "order_value": 200,
         "ath_diff": null,
         "expected_days": 55.4,
-        "buy_to_failure": 5
+        "buy_to_failure": 5,
+        "queue_market": 0.025122
     },
     {
         "name": "تاصیکو",
@@ -272,7 +282,8 @@
         "order_value": 257,
         "ath_diff": null,
         "expected_days": 2.5,
-        "buy_to_failure": 80
+        "buy_to_failure": 80,
+        "queue_market": 0.000516
     },
     {
         "name": "وپارس",
@@ -297,7 +308,8 @@
         "order_value": 197,
         "ath_diff": null,
         "expected_days": 1.1,
-        "buy_to_failure": 43
+        "buy_to_failure": 43,
+        "queue_market": 0.002084
     },
     {
         "name": "شاوان",
@@ -322,7 +334,8 @@
         "order_value": 122,
         "ath_diff": null,
         "expected_days": 3.1,
-        "buy_to_failure": 21
+        "buy_to_failure": 21,
+        "queue_market": 0.005374
     },
     {
         "name": "فارس",
@@ -347,7 +360,8 @@
         "order_value": 123,
         "ath_diff": null,
         "expected_days": 1.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 9.2e-05
     },
     {
         "name": "تاپیکو",
@@ -372,7 +386,8 @@
         "order_value": 125,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000338
     },
     {
         "name": "ونیرو",
@@ -397,7 +412,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 27.1,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.01883
     },
     {
         "name": "ومعادنح",
@@ -422,7 +438,8 @@
         "order_value": 177,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.025596
     },
     {
         "name": "شستا",
@@ -447,7 +464,8 @@
         "order_value": 308,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000458
     },
     {
         "name": "خساپا",
@@ -472,7 +490,8 @@
         "order_value": 228,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001162
     },
     {
         "name": "کگاز",
@@ -497,7 +516,8 @@
         "order_value": 138,
         "ath_diff": null,
         "expected_days": 1.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.008868
     },
     {
         "name": "دارونو",
@@ -522,7 +542,8 @@
         "order_value": 110,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 74
+        "buy_to_failure": 74,
+        "queue_market": 0.003861
     },
     {
         "name": "ومعادن",
@@ -547,7 +568,8 @@
         "order_value": 299,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000734
     },
     {
         "name": "احیا",
@@ -572,7 +594,8 @@
         "order_value": 148,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 105
+        "buy_to_failure": 105,
+        "queue_market": 0.00114
     },
     {
         "name": "دبالک",
@@ -597,7 +620,8 @@
         "order_value": 170,
         "ath_diff": null,
         "expected_days": 120.0,
-        "buy_to_failure": 8
+        "buy_to_failure": 8,
+        "queue_market": 0.032367
     },
     {
         "name": "شاراک",
@@ -622,7 +646,8 @@
         "order_value": 250,
         "ath_diff": null,
         "expected_days": 2.6,
-        "buy_to_failure": 38
+        "buy_to_failure": 38,
+        "queue_market": 0.002927
     },
     {
         "name": "پتروداریوش",
@@ -647,7 +672,8 @@
         "order_value": 254,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.01252
     },
     {
         "name": "هرمز",
@@ -672,7 +698,8 @@
         "order_value": 118,
         "ath_diff": null,
         "expected_days": 4.1,
-        "buy_to_failure": 17
+        "buy_to_failure": 17,
+        "queue_market": 0.001032
     },
     {
         "name": "شبهرن",
@@ -697,7 +724,8 @@
         "order_value": 118,
         "ath_diff": null,
         "expected_days": 1.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00059
     },
     {
         "name": "پیزد",
@@ -722,7 +750,8 @@
         "order_value": 304,
         "ath_diff": null,
         "expected_days": 232.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.009129
     },
     {
         "name": "ستران",
@@ -747,7 +776,8 @@
         "order_value": 151,
         "ath_diff": null,
         "expected_days": 4.2,
-        "buy_to_failure": 37
+        "buy_to_failure": 37,
+        "queue_market": 0.00256
     },
     {
         "name": "محتشم",
@@ -772,7 +802,8 @@
         "order_value": 133,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.004578
     },
     {
         "name": "دوایکس",
@@ -797,7 +828,8 @@
         "order_value": 92,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005883
     },
     {
         "name": "فگستر",
@@ -822,7 +854,8 @@
         "order_value": 105,
         "ath_diff": null,
         "expected_days": 36.0,
-        "buy_to_failure": 2
+        "buy_to_failure": 2,
+        "queue_market": 0.017583
     },
     {
         "name": "ارفع",
@@ -847,7 +880,8 @@
         "order_value": 108,
         "ath_diff": null,
         "expected_days": 3.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000939
     },
     {
         "name": "فسوژ",
@@ -872,7 +906,8 @@
         "order_value": 217,
         "ath_diff": null,
         "expected_days": 28.3,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.009647
     },
     {
         "name": "فپنتا",
@@ -897,7 +932,8 @@
         "order_value": 127,
         "ath_diff": null,
         "expected_days": 2.6,
-        "buy_to_failure": 36
+        "buy_to_failure": 36,
+        "queue_market": 0.006857
     },
     {
         "name": "سباقر",
@@ -922,7 +958,8 @@
         "order_value": 104,
         "ath_diff": null,
         "expected_days": 1.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001271
     },
     {
         "name": "شگستر",
@@ -947,7 +984,8 @@
         "order_value": 173,
         "ath_diff": null,
         "expected_days": 22.0,
-        "buy_to_failure": 118
+        "buy_to_failure": 118,
+        "queue_market": 0.007304
     },
     {
         "name": "شسپا",
@@ -972,7 +1010,8 @@
         "order_value": 197,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000501
     },
     {
         "name": "تپکو",
@@ -997,7 +1036,8 @@
         "order_value": 162,
         "ath_diff": null,
         "expected_days": 18.5,
-        "buy_to_failure": 5
+        "buy_to_failure": 5,
+        "queue_market": 0.010318
     },
     {
         "name": "وساپا",
@@ -1022,7 +1062,8 @@
         "order_value": 275,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 90
+        "buy_to_failure": 90,
+        "queue_market": 0.002539
     },
     {
         "name": "بوعلی",
@@ -1047,7 +1088,8 @@
         "order_value": 147,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000264
     },
     {
         "name": "دحاوی",
@@ -1072,7 +1114,8 @@
         "order_value": 131,
         "ath_diff": null,
         "expected_days": 344.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.015536
     },
     {
         "name": "دسبحا",
@@ -1097,7 +1140,8 @@
         "order_value": 213,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00652
     },
     {
         "name": "مسگون",
@@ -1122,7 +1166,8 @@
         "order_value": 139,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 31
+        "buy_to_failure": 31,
+        "queue_market": 0.013143
     },
     {
         "name": "فایرا",
@@ -1147,7 +1192,8 @@
         "order_value": 145,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00025
     },
     {
         "name": "درازی",
@@ -1172,7 +1218,8 @@
         "order_value": 124,
         "ath_diff": null,
         "expected_days": 25.3,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.008975
     },
     {
         "name": "فباهنر",
@@ -1197,7 +1244,8 @@
         "order_value": 126,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000419
     },
     {
         "name": "غکورش",
@@ -1222,7 +1270,8 @@
         "order_value": 242,
         "ath_diff": null,
         "expected_days": 1.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000304
     },
     {
         "name": "سیسکو",
@@ -1247,7 +1296,8 @@
         "order_value": 170,
         "ath_diff": null,
         "expected_days": 1.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000375
     },
     {
         "name": "شگویا",
@@ -1272,7 +1322,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 66
+        "buy_to_failure": 66,
+        "queue_market": 0.001525
     },
     {
         "name": "سصوفی",
@@ -1297,7 +1348,8 @@
         "order_value": 177,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001217
     },
     {
         "name": "حفارس",
@@ -1322,7 +1374,8 @@
         "order_value": 231,
         "ath_diff": null,
         "expected_days": 4.8,
-        "buy_to_failure": 34
+        "buy_to_failure": 34,
+        "queue_market": 0.003635
     },
     {
         "name": "فسبزوار",
@@ -1347,7 +1400,8 @@
         "order_value": 216,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000989
     },
     {
         "name": "خگستر",
@@ -1372,7 +1426,8 @@
         "order_value": 127,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000568
     },
     {
         "name": "ددام",
@@ -1397,7 +1452,8 @@
         "order_value": 129,
         "ath_diff": null,
         "expected_days": 4.7,
-        "buy_to_failure": 16
+        "buy_to_failure": 16,
+        "queue_market": 0.008514
     },
     {
         "name": "غبشهر",
@@ -1422,7 +1478,8 @@
         "order_value": 173,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 65
+        "buy_to_failure": 65,
+        "queue_market": 0.00032
     },
     {
         "name": "صبا",
@@ -1447,7 +1504,8 @@
         "order_value": 225,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000231
     },
     {
         "name": "دالبر",
@@ -1472,7 +1530,8 @@
         "order_value": 154,
         "ath_diff": null,
         "expected_days": 1.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00109
     },
     {
         "name": "ساروم",
@@ -1497,7 +1556,8 @@
         "order_value": 209,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000701
     },
     {
         "name": "دی",
@@ -1522,7 +1582,8 @@
         "order_value": 142,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001492
     },
     {
         "name": "ولشرق",
@@ -1547,7 +1608,8 @@
         "order_value": 147,
         "ath_diff": null,
         "expected_days": 20.0,
-        "buy_to_failure": 5
+        "buy_to_failure": 5,
+        "queue_market": 0.0355
     },
     {
         "name": "پارس",
@@ -1572,7 +1634,8 @@
         "order_value": 238,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000278
     },
     {
         "name": "واحیا",
@@ -1597,7 +1660,8 @@
         "order_value": 179,
         "ath_diff": null,
         "expected_days": 6.9,
-        "buy_to_failure": 9
+        "buy_to_failure": 9,
+        "queue_market": 0.001589
     },
     {
         "name": "شصفهاح",
@@ -1622,7 +1686,8 @@
         "order_value": 106,
         "ath_diff": null,
         "expected_days": 4.8,
-        "buy_to_failure": 8
+        "buy_to_failure": 8,
+        "queue_market": 0.005385
     },
     {
         "name": "دسبحان",
@@ -1647,7 +1712,8 @@
         "order_value": 153,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000933
     },
     {
         "name": "کتوکا",
@@ -1672,7 +1738,8 @@
         "order_value": 247,
         "ath_diff": null,
         "expected_days": 7.3,
-        "buy_to_failure": 15
+        "buy_to_failure": 15,
+        "queue_market": 0.01125
     },
     {
         "name": "اطلس",
@@ -1697,7 +1764,8 @@
         "order_value": 155,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000442
     },
     {
         "name": "فزرین",
@@ -1722,7 +1790,8 @@
         "order_value": 279,
         "ath_diff": null,
         "expected_days": 2.0,
-        "buy_to_failure": 33
+        "buy_to_failure": 33,
+        "queue_market": 0.007769
     },
     {
         "name": "کاما",
@@ -1747,7 +1816,8 @@
         "order_value": 174,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001266
     },
     {
         "name": "دیران",
@@ -1772,7 +1842,8 @@
         "order_value": 168,
         "ath_diff": null,
         "expected_days": 8.8,
-        "buy_to_failure": 11
+        "buy_to_failure": 11,
+        "queue_market": 0.008
     },
     {
         "name": "شفا",
@@ -1797,7 +1868,8 @@
         "order_value": 193,
         "ath_diff": null,
         "expected_days": 1.4,
-        "buy_to_failure": 58
+        "buy_to_failure": 58,
+        "queue_market": 0.001359
     },
     {
         "name": "کاسپین",
@@ -1822,7 +1894,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000277
     },
     {
         "name": "سخزر",
@@ -1847,7 +1920,8 @@
         "order_value": 206,
         "ath_diff": null,
         "expected_days": 3.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00371
     },
     {
         "name": "ددانا",
@@ -1872,7 +1946,8 @@
         "order_value": 217,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000516
     },
     {
         "name": "نیشکر",
@@ -1897,7 +1972,8 @@
         "order_value": 199,
         "ath_diff": null,
         "expected_days": 1.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000118
     },
     {
         "name": "فطلوع",
@@ -1922,7 +1998,8 @@
         "order_value": 151,
         "ath_diff": null,
         "expected_days": 5.3,
-        "buy_to_failure": 18
+        "buy_to_failure": 18,
+        "queue_market": 0.002024
     },
     {
         "name": "فزر",
@@ -1947,7 +2024,8 @@
         "order_value": 268,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0001
     },
     {
         "name": "کویر",
@@ -1972,7 +2050,8 @@
         "order_value": 201,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 49
+        "buy_to_failure": 49,
+        "queue_market": 0.001844
     },
     {
         "name": "بیوتیک",
@@ -1997,7 +2076,8 @@
         "order_value": 107,
         "ath_diff": null,
         "expected_days": 10.0,
-        "buy_to_failure": 13
+        "buy_to_failure": 13,
+        "queue_market": 0.001429
     },
     {
         "name": "پی پاد",
@@ -2022,7 +2102,8 @@
         "order_value": 243,
         "ath_diff": null,
         "expected_days": 26.2,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.006709
     },
     {
         "name": "غدانه",
@@ -2047,7 +2128,8 @@
         "order_value": 173,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.003059
     },
     {
         "name": "ریشمک",
@@ -2072,7 +2154,8 @@
         "order_value": 161,
         "ath_diff": null,
         "expected_days": 3.4,
-        "buy_to_failure": 21
+        "buy_to_failure": 21,
+        "queue_market": 0.015562
     },
     {
         "name": "سجام",
@@ -2097,7 +2180,8 @@
         "order_value": 272,
         "ath_diff": null,
         "expected_days": 3.7,
-        "buy_to_failure": 148
+        "buy_to_failure": 148,
+        "queue_market": 0.001955
     },
     {
         "name": "حفاری",
@@ -2122,7 +2206,8 @@
         "order_value": 183,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002234
     },
     {
         "name": "انتخاب",
@@ -2147,7 +2232,8 @@
         "order_value": 233,
         "ath_diff": null,
         "expected_days": 2.4,
-        "buy_to_failure": 30
+        "buy_to_failure": 30,
+        "queue_market": 0.001075
     },
     {
         "name": "دارو",
@@ -2172,7 +2258,8 @@
         "order_value": 258,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000436
     },
     {
         "name": "شرانل",
@@ -2197,7 +2284,8 @@
         "order_value": 308,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000553
     },
     {
         "name": "فروس",
@@ -2222,7 +2310,8 @@
         "order_value": 115,
         "ath_diff": null,
         "expected_days": 4.4,
-        "buy_to_failure": 12
+        "buy_to_failure": 12,
+        "queue_market": 0.004697
     },
     {
         "name": "وپترو",
@@ -2247,7 +2336,8 @@
         "order_value": 237,
         "ath_diff": null,
         "expected_days": 1.6,
-        "buy_to_failure": 72
+        "buy_to_failure": 72,
+        "queue_market": 0.001879
     },
     {
         "name": "درازک",
@@ -2272,7 +2362,8 @@
         "order_value": 143,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 74
+        "buy_to_failure": 74,
+        "queue_market": 0.001049
     },
     {
         "name": "البرز",
@@ -2297,7 +2388,8 @@
         "order_value": 258,
         "ath_diff": null,
         "expected_days": 2.4,
-        "buy_to_failure": 44
+        "buy_to_failure": 44,
+        "queue_market": 0.001636
     },
     {
         "name": "فروسیل",
@@ -2322,7 +2414,8 @@
         "order_value": 146,
         "ath_diff": null,
         "expected_days": 2.4,
-        "buy_to_failure": 30
+        "buy_to_failure": 30,
+        "queue_market": 0.00913
     },
     {
         "name": "شیفته",
@@ -2347,7 +2440,8 @@
         "order_value": 137,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001437
     },
     {
         "name": "بپویا",
@@ -2372,7 +2466,8 @@
         "order_value": 179,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001121
     },
     {
         "name": "کی بی سی",
@@ -2397,7 +2492,8 @@
         "order_value": 108,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005056
     },
     {
         "name": "کالا",
@@ -2422,7 +2518,8 @@
         "order_value": 288,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000381
     },
     {
         "name": "غمارگ",
@@ -2447,7 +2544,8 @@
         "order_value": 244,
         "ath_diff": null,
         "expected_days": 125.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.003494
     },
     {
         "name": "فسپا",
@@ -2472,7 +2570,8 @@
         "order_value": 195,
         "ath_diff": null,
         "expected_days": 2.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002899
     },
     {
         "name": "کچاد",
@@ -2497,7 +2596,8 @@
         "order_value": 289,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 5.4e-05
     },
     {
         "name": "وسنا",
@@ -2522,7 +2622,8 @@
         "order_value": 107,
         "ath_diff": null,
         "expected_days": 5.3,
-        "buy_to_failure": 62
+        "buy_to_failure": 62,
+        "queue_market": 0.0012
     },
     {
         "name": "کپشیر",
@@ -2547,7 +2648,8 @@
         "order_value": 248,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001462
     },
     {
         "name": "شپاس",
@@ -2572,7 +2674,8 @@
         "order_value": 145,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00054
     },
     {
         "name": "فن آوا",
@@ -2597,7 +2700,8 @@
         "order_value": 95,
         "ath_diff": null,
         "expected_days": 26.8,
-        "buy_to_failure": 2
+        "buy_to_failure": 2,
+        "queue_market": 0.013296
     },
     {
         "name": "خودرو",
@@ -2622,7 +2726,8 @@
         "order_value": 224,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 2.8e-05
     },
     {
         "name": "دتولید",
@@ -2647,7 +2752,8 @@
         "order_value": 216,
         "ath_diff": null,
         "expected_days": 3.3,
-        "buy_to_failure": 24
+        "buy_to_failure": 24,
+        "queue_market": 0.007857
     },
     {
         "name": "کپرسپولیس",
@@ -2672,7 +2778,8 @@
         "order_value": 256,
         "ath_diff": null,
         "expected_days": 1.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0025
     },
     {
         "name": "شکلر",
@@ -2697,7 +2804,8 @@
         "order_value": 280,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002514
     },
     {
         "name": "وغدیر",
@@ -2722,7 +2830,8 @@
         "order_value": 203,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 6.1e-05
     },
     {
         "name": "دلقما",
@@ -2747,7 +2856,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00035
     },
     {
         "name": "فسرب",
@@ -2772,7 +2882,8 @@
         "order_value": 259,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 74
+        "buy_to_failure": 74,
+        "queue_market": 0.002
     },
     {
         "name": "آریا",
@@ -2797,7 +2908,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 3.1e-05
     },
     {
         "name": "دعبید",
@@ -2822,7 +2934,8 @@
         "order_value": 225,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 7.7e-05
     },
     {
         "name": "فن افزار",
@@ -2847,7 +2960,8 @@
         "order_value": 107,
         "ath_diff": null,
         "expected_days": 10.0,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.00154
     },
     {
         "name": "استیل",
@@ -2872,7 +2986,8 @@
         "order_value": 105,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000612
     },
     {
         "name": "شملی",
@@ -2897,7 +3012,8 @@
         "order_value": 275,
         "ath_diff": null,
         "expected_days": 1.8,
-        "buy_to_failure": 99
+        "buy_to_failure": 99,
+        "queue_market": 0.010292
     },
     {
         "name": "تیپیکو",
@@ -2922,7 +3038,8 @@
         "order_value": 288,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 6.7e-05
     },
     {
         "name": "ارزش مسکن",
@@ -2947,7 +3064,8 @@
         "order_value": 107,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.040833
     },
     {
         "name": "ثالوند",
@@ -2972,7 +3090,8 @@
         "order_value": 245,
         "ath_diff": null,
         "expected_days": 6.2,
-        "buy_to_failure": 58
+        "buy_to_failure": 58,
+        "queue_market": 0.00848
     },
     {
         "name": "فجر",
@@ -2997,7 +3116,8 @@
         "order_value": 194,
         "ath_diff": null,
         "expected_days": 2.2,
-        "buy_to_failure": 116
+        "buy_to_failure": 116,
+        "queue_market": 0.000667
     },
     {
         "name": "سولار",
@@ -3022,7 +3142,8 @@
         "order_value": 132,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 8
+        "buy_to_failure": 8,
+        "queue_market": 0.007538
     },
     {
         "name": "ورنا",
@@ -3047,7 +3168,8 @@
         "order_value": 232,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001043
     },
     {
         "name": "حآفرین",
@@ -3072,7 +3194,8 @@
         "order_value": 270,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 117
+        "buy_to_failure": 117,
+        "queue_market": 0.004033
     },
     {
         "name": "وکغدیر",
@@ -3097,7 +3220,8 @@
         "order_value": 170,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000196
     },
     {
         "name": "شصفها",
@@ -3122,7 +3246,8 @@
         "order_value": 95,
         "ath_diff": null,
         "expected_days": 127.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001468
     },
     {
         "name": "وهور",
@@ -3147,7 +3272,8 @@
         "order_value": 261,
         "ath_diff": null,
         "expected_days": 0.9,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001211
     },
     {
         "name": "فاراک",
@@ -3172,7 +3298,8 @@
         "order_value": 303,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000962
     },
     {
         "name": "شنفت",
@@ -3197,7 +3324,8 @@
         "order_value": 156,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000196
     },
     {
         "name": "وتوکا",
@@ -3222,7 +3350,8 @@
         "order_value": 109,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001639
     },
     {
         "name": "غنوش",
@@ -3247,7 +3376,8 @@
         "order_value": 175,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005706
     },
     {
         "name": "شبصیر",
@@ -3272,7 +3402,8 @@
         "order_value": 137,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000684
     },
     {
         "name": "ساراب",
@@ -3297,7 +3428,8 @@
         "order_value": 178,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 28
+        "buy_to_failure": 28,
+        "queue_market": 0.000897
     },
     {
         "name": "بشهاب",
@@ -3322,7 +3454,8 @@
         "order_value": 262,
         "ath_diff": null,
         "expected_days": 2.8,
-        "buy_to_failure": 48
+        "buy_to_failure": 48,
+        "queue_market": 0.0025
     },
     {
         "name": "داوه",
@@ -3347,7 +3480,8 @@
         "order_value": 121,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 33
+        "buy_to_failure": 33,
+        "queue_market": 0.00244
     },
     {
         "name": "رافزا",
@@ -3372,7 +3506,8 @@
         "order_value": 194,
         "ath_diff": null,
         "expected_days": 1.1,
-        "buy_to_failure": 36
+        "buy_to_failure": 36,
+        "queue_market": 0.001395
     },
     {
         "name": "سشرق",
@@ -3397,7 +3532,8 @@
         "order_value": 259,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000244
     },
     {
         "name": "ثغرب",
@@ -3422,7 +3558,8 @@
         "order_value": 145,
         "ath_diff": null,
         "expected_days": 1.2,
-        "buy_to_failure": 116
+        "buy_to_failure": 116,
+        "queue_market": 0.001647
     },
     {
         "name": "دزاگرس",
@@ -3447,7 +3584,8 @@
         "order_value": 253,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000463
     },
     {
         "name": "کلوند",
@@ -3472,7 +3610,8 @@
         "order_value": 220,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001263
     },
     {
         "name": "کگل",
@@ -3497,7 +3636,8 @@
         "order_value": 303,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 3.7e-05
     },
     {
         "name": "دکوثر",
@@ -3522,7 +3662,8 @@
         "order_value": 210,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00171
     },
     {
         "name": "بهپاک",
@@ -3547,7 +3688,8 @@
         "order_value": 175,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000571
     },
     {
         "name": "آردینه",
@@ -3572,7 +3714,8 @@
         "order_value": 96,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002323
     },
     {
         "name": "مادیرا",
@@ -3597,7 +3740,8 @@
         "order_value": 290,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000348
     },
     {
         "name": "فارما کیان",
@@ -3622,7 +3766,8 @@
         "order_value": 111,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002264
     },
     {
         "name": "کفرا",
@@ -3647,7 +3792,8 @@
         "order_value": 137,
         "ath_diff": null,
         "expected_days": 12.5,
-        "buy_to_failure": 21
+        "buy_to_failure": 21,
+        "queue_market": 0.00067
     },
     {
         "name": "حپرتو",
@@ -3672,7 +3818,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 5.5,
-        "buy_to_failure": 17
+        "buy_to_failure": 17,
+        "queue_market": 0.008833
     },
     {
         "name": "ختور",
@@ -3697,7 +3844,8 @@
         "order_value": 96,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 15
+        "buy_to_failure": 15,
+        "queue_market": 0.005391
     },
     {
         "name": "اردستان",
@@ -3722,7 +3870,8 @@
         "order_value": 299,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000364
     },
     {
         "name": "سقاین",
@@ -3747,7 +3896,8 @@
         "order_value": 301,
         "ath_diff": null,
         "expected_days": 1.9,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000564
     },
     {
         "name": "کوثر",
@@ -3772,7 +3922,8 @@
         "order_value": 175,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001559
     },
     {
         "name": "قصفها",
@@ -3797,7 +3948,8 @@
         "order_value": 232,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000103
     },
     {
         "name": "کنور",
@@ -3822,7 +3974,8 @@
         "order_value": 186,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 8.2e-05
     },
     {
         "name": "چدن",
@@ -3847,7 +4000,8 @@
         "order_value": 109,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001085
     },
     {
         "name": "میهن",
@@ -3872,7 +4026,8 @@
         "order_value": 272,
         "ath_diff": null,
         "expected_days": 1.1,
-        "buy_to_failure": 104
+        "buy_to_failure": 104,
+        "queue_market": 0.002952
     },
     {
         "name": "دلر",
@@ -3897,7 +4052,8 @@
         "order_value": 267,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000205
     },
     {
         "name": "حیات",
@@ -3922,7 +4078,8 @@
         "order_value": 234,
         "ath_diff": null,
         "expected_days": 12.1,
-        "buy_to_failure": 13
+        "buy_to_failure": 13,
+        "queue_market": 0.0022
     },
     {
         "name": "فمراد",
@@ -3947,7 +4104,8 @@
         "order_value": 110,
         "ath_diff": null,
         "expected_days": 0.9,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.003
     },
     {
         "name": "فجهان",
@@ -3972,7 +4130,8 @@
         "order_value": 275,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000363
     },
     {
         "name": "شلرد",
@@ -3997,7 +4156,8 @@
         "order_value": 265,
         "ath_diff": null,
         "expected_days": 1.1,
-        "buy_to_failure": 107
+        "buy_to_failure": 107,
+        "queue_market": 0.000551
     },
     {
         "name": "تپسی",
@@ -4022,7 +4182,8 @@
         "order_value": 217,
         "ath_diff": null,
         "expected_days": 2.3,
-        "buy_to_failure": 39
+        "buy_to_failure": 39,
+        "queue_market": 0.002808
     },
     {
         "name": "غویتا",
@@ -4047,7 +4208,8 @@
         "order_value": 173,
         "ath_diff": null,
         "expected_days": 1.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001949
     },
     {
         "name": "وصندوق",
@@ -4072,7 +4234,8 @@
         "order_value": 235,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000171
     },
     {
         "name": "شپارس",
@@ -4097,7 +4260,8 @@
         "order_value": 251,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.004143
     },
     {
         "name": "غانیزان",
@@ -4122,7 +4286,8 @@
         "order_value": 268,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 113
+        "buy_to_failure": 113,
+        "queue_market": 0.001762
     },
     {
         "name": "شدوص",
@@ -4147,7 +4312,8 @@
         "order_value": 230,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 82
+        "buy_to_failure": 82,
+        "queue_market": 0.000881
     },
     {
         "name": "شپترو",
@@ -4172,7 +4338,8 @@
         "order_value": 227,
         "ath_diff": null,
         "expected_days": 32.5,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.005591
     },
     {
         "name": "معدن",
@@ -4197,7 +4364,8 @@
         "order_value": 196,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002421
     },
     {
         "name": "سبهان",
@@ -4222,7 +4390,8 @@
         "order_value": 193,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00063
     },
     {
         "name": "معین",
@@ -4247,7 +4416,8 @@
         "order_value": 287,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 51
+        "buy_to_failure": 51,
+        "queue_market": 0.001406
     },
     {
         "name": "فوکا",
@@ -4272,7 +4442,8 @@
         "order_value": 179,
         "ath_diff": null,
         "expected_days": 11.4,
-        "buy_to_failure": 7
+        "buy_to_failure": 7,
+        "queue_market": 0.000804
     },
     {
         "name": "وآوا",
@@ -4297,7 +4468,8 @@
         "order_value": 116,
         "ath_diff": null,
         "expected_days": 4.4,
-        "buy_to_failure": 12
+        "buy_to_failure": 12,
+        "queue_market": 0.006
     },
     {
         "name": "غگز",
@@ -4322,7 +4494,8 @@
         "order_value": 109,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002444
     },
     {
         "name": "وسینا",
@@ -4347,7 +4520,8 @@
         "order_value": 100,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000291
     },
     {
         "name": "شتوکا",
@@ -4372,7 +4546,8 @@
         "order_value": 260,
         "ath_diff": null,
         "expected_days": 2.1,
-        "buy_to_failure": 44
+        "buy_to_failure": 44,
+        "queue_market": 0.009
     },
     {
         "name": "آباد",
@@ -4397,7 +4572,8 @@
         "order_value": 306,
         "ath_diff": null,
         "expected_days": 2.7,
-        "buy_to_failure": 36
+        "buy_to_failure": 36,
+        "queue_market": 0.006083
     },
     {
         "name": "کماسه",
@@ -4422,7 +4598,8 @@
         "order_value": 148,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001241
     },
     {
         "name": "بمیلا",
@@ -4447,7 +4624,8 @@
         "order_value": 207,
         "ath_diff": null,
         "expected_days": 18.6,
-        "buy_to_failure": 35
+        "buy_to_failure": 35,
+        "queue_market": 0.005375
     },
     {
         "name": "قمرو",
@@ -4472,7 +4650,8 @@
         "order_value": 104,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000725
     },
     {
         "name": "بورس",
@@ -4497,7 +4676,8 @@
         "order_value": 157,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000233
     },
     {
         "name": "نمک",
@@ -4522,7 +4702,8 @@
         "order_value": 105,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001029
     },
     {
         "name": "غالبر",
@@ -4547,7 +4728,8 @@
         "order_value": 294,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 113
+        "buy_to_failure": 113,
+        "queue_market": 0.002
     },
     {
         "name": "خشرق",
@@ -4572,7 +4754,8 @@
         "order_value": 286,
         "ath_diff": null,
         "expected_days": 3.0,
-        "buy_to_failure": 75
+        "buy_to_failure": 75,
+        "queue_market": 0.004267
     },
     {
         "name": "موج",
@@ -4597,7 +4780,8 @@
         "order_value": 226,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000497
     },
     {
         "name": "غپونه",
@@ -4622,7 +4806,8 @@
         "order_value": 267,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000889
     },
     {
         "name": "کسعدی",
@@ -4647,7 +4832,8 @@
         "order_value": 231,
         "ath_diff": null,
         "expected_days": 2.4,
-        "buy_to_failure": 77
+        "buy_to_failure": 77,
+        "queue_market": 0.004545
     },
     {
         "name": "ثشاهد",
@@ -4672,7 +4858,8 @@
         "order_value": 115,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0003
     },
     {
         "name": "کخاک",
@@ -4697,7 +4884,8 @@
         "order_value": 158,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000161
     },
     {
         "name": "سهگمت",
@@ -4722,7 +4910,8 @@
         "order_value": 142,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000376
     },
     {
         "name": "دسانکو",
@@ -4747,7 +4936,8 @@
         "order_value": 103,
         "ath_diff": null,
         "expected_days": 0.9,
-        "buy_to_failure": 50
+        "buy_to_failure": 50,
+        "queue_market": 0.0016
     },
     {
         "name": "فنوال",
@@ -4772,7 +4962,8 @@
         "order_value": 133,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000168
     },
     {
         "name": "شاروم",
@@ -4797,7 +4988,8 @@
         "order_value": 142,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000357
     },
     {
         "name": "دقاضی",
@@ -4822,7 +5014,8 @@
         "order_value": 224,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 8.4e-05
     },
     {
         "name": "قلرست",
@@ -4847,7 +5040,8 @@
         "order_value": 305,
         "ath_diff": null,
         "expected_days": 2.5,
-        "buy_to_failure": 89
+        "buy_to_failure": 89,
+        "queue_market": 0.001132
     },
     {
         "name": "فتوسا",
@@ -4872,7 +5066,8 @@
         "order_value": 177,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 42
+        "buy_to_failure": 42,
+        "queue_market": 0.001875
     },
     {
         "name": "وبشهر",
@@ -4897,7 +5092,8 @@
         "order_value": 185,
         "ath_diff": null,
         "expected_days": 2.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000191
     },
     {
         "name": "افق",
@@ -4922,7 +5118,8 @@
         "order_value": 221,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 1.7e-05
     },
     {
         "name": "کیمیا",
@@ -4947,7 +5144,8 @@
         "order_value": 172,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002643
     },
     {
         "name": "کرمان",
@@ -4972,7 +5170,8 @@
         "order_value": 146,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000717
     },
     {
         "name": "دپارس",
@@ -4997,7 +5196,8 @@
         "order_value": 189,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000513
     },
     {
         "name": "دسینا",
@@ -5022,7 +5222,8 @@
         "order_value": 267,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000295
     },
     {
         "name": "خکمک",
@@ -5047,7 +5248,8 @@
         "order_value": 276,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005818
     },
     {
         "name": "والبر",
@@ -5072,7 +5274,8 @@
         "order_value": 119,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000217
     },
     {
         "name": "غمینو",
@@ -5097,7 +5300,8 @@
         "order_value": 237,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000815
     },
     {
         "name": "ولاعتماد",
@@ -5122,7 +5326,8 @@
         "order_value": 163,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005687
     },
     {
         "name": "سیمانو",
@@ -5147,7 +5352,8 @@
         "order_value": 126,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000268
     },
     {
         "name": "کاذر",
@@ -5172,7 +5378,8 @@
         "order_value": 156,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 112
+        "buy_to_failure": 112,
+        "queue_market": 0.00145
     },
     {
         "name": "نیروترانسفو",
@@ -5197,7 +5404,8 @@
         "order_value": 246,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001069
     },
     {
         "name": "خزر",
@@ -5222,7 +5430,8 @@
         "order_value": 229,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 75
+        "buy_to_failure": 75,
+        "queue_market": 0.0011
     },
     {
         "name": "فاذر",
@@ -5247,7 +5456,8 @@
         "order_value": 150,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000926
     },
     {
         "name": "تکشا",
@@ -5272,7 +5482,8 @@
         "order_value": 104,
         "ath_diff": null,
         "expected_days": 1.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00325
     },
     {
         "name": "سپاها",
@@ -5297,7 +5508,8 @@
         "order_value": 212,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000165
     },
     {
         "name": "سرود",
@@ -5322,7 +5534,8 @@
         "order_value": 183,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000216
     },
     {
         "name": "همراه",
@@ -5347,7 +5560,8 @@
         "order_value": 302,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000112
     },
     {
         "name": "زنجان",
@@ -5372,7 +5586,8 @@
         "order_value": 203,
         "ath_diff": null,
         "expected_days": 19.5,
-        "buy_to_failure": 6
+        "buy_to_failure": 6,
+        "queue_market": 0.005294
     },
     {
         "name": "جم",
@@ -5397,7 +5612,8 @@
         "order_value": 174,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 6e-05
     },
     {
         "name": "غپآذر",
@@ -5422,7 +5638,8 @@
         "order_value": 252,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00316
     },
     {
         "name": "پدرخش",
@@ -5447,7 +5664,8 @@
         "order_value": 181,
         "ath_diff": null,
         "expected_days": 3.0,
-        "buy_to_failure": 30
+        "buy_to_failure": 30,
+        "queue_market": 0.004
     },
     {
         "name": "عالیس",
@@ -5472,7 +5690,8 @@
         "order_value": 185,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0003
     },
     {
         "name": "بجهرم",
@@ -5497,7 +5716,8 @@
         "order_value": 97,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000191
     },
     {
         "name": "وساخت",
@@ -5522,7 +5742,8 @@
         "order_value": 194,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000879
     },
     {
         "name": "وبوعلی",
@@ -5547,7 +5768,8 @@
         "order_value": 98,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001132
     },
     {
         "name": "سغدیر",
@@ -5572,7 +5794,8 @@
         "order_value": 232,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000429
     },
     {
         "name": "فنورد",
@@ -5597,7 +5820,8 @@
         "order_value": 116,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00025
     },
     {
         "name": "سبزوا",
@@ -5622,7 +5846,8 @@
         "order_value": 284,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000743
     },
     {
         "name": "داترا",
@@ -5647,7 +5872,8 @@
         "order_value": 206,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000237
     },
     {
         "name": "مهرگان",
@@ -5672,7 +5898,8 @@
         "order_value": 111,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 4.3e-05
     },
     {
         "name": "سآبیک",
@@ -5697,7 +5924,8 @@
         "order_value": 235,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 3.6e-05
     },
     {
         "name": "زپارس",
@@ -5722,7 +5950,8 @@
         "order_value": 120,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000537
     },
     {
         "name": "کزغال",
@@ -5747,7 +5976,8 @@
         "order_value": 193,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000426
     },
     {
         "name": "پلوله",
@@ -5772,7 +6002,8 @@
         "order_value": 290,
         "ath_diff": null,
         "expected_days": 15.6,
-        "buy_to_failure": 17
+        "buy_to_failure": 17,
+        "queue_market": 0.011364
     },
     {
         "name": "برکت",
@@ -5797,7 +6028,8 @@
         "order_value": 150,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000235
     },
     {
         "name": "وسین",
@@ -5822,7 +6054,8 @@
         "order_value": 284,
         "ath_diff": null,
         "expected_days": 5.5,
-        "buy_to_failure": 23
+        "buy_to_failure": 23,
+        "queue_market": 0.005437
     },
     {
         "name": "هجرت",
@@ -5847,7 +6080,8 @@
         "order_value": 259,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000266
     },
     {
         "name": "غگلستا",
@@ -5872,7 +6106,8 @@
         "order_value": 163,
         "ath_diff": null,
         "expected_days": 0.7,
-        "buy_to_failure": 55
+        "buy_to_failure": 55,
+        "queue_market": 0.001833
     },
     {
         "name": "فصبا",
@@ -5897,7 +6132,8 @@
         "order_value": 98,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 5e-05
     },
     {
         "name": "وبیمه",
@@ -5922,7 +6158,8 @@
         "order_value": 278,
         "ath_diff": null,
         "expected_days": 16.0,
-        "buy_to_failure": 4
+        "buy_to_failure": 4,
+        "queue_market": 0.002116
     },
     {
         "name": "آواپارس",
@@ -5947,7 +6184,8 @@
         "order_value": 112,
         "ath_diff": null,
         "expected_days": 11.8,
-        "buy_to_failure": 6
+        "buy_to_failure": 6,
+        "queue_market": 0.0025
     },
     {
         "name": "کیمازی",
@@ -5972,7 +6210,8 @@
         "order_value": 184,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000862
     },
     {
         "name": "آبین",
@@ -5997,7 +6236,8 @@
         "order_value": 283,
         "ath_diff": null,
         "expected_days": 12.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.005588
     },
     {
         "name": "قشهد",
@@ -6022,7 +6262,8 @@
         "order_value": 97,
         "ath_diff": null,
         "expected_days": 5.0,
-        "buy_to_failure": 16
+        "buy_to_failure": 16,
+        "queue_market": 0.001595
     },
     {
         "name": "زاگرس",
@@ -6047,7 +6288,8 @@
         "order_value": 151,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000127
     },
     {
         "name": "تفیرو",
@@ -6072,7 +6314,8 @@
         "order_value": 225,
         "ath_diff": null,
         "expected_days": 1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.036333
     },
     {
         "name": "اکتان",
@@ -6097,7 +6340,8 @@
         "order_value": 269,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000346
     },
     {
         "name": "سدور",
@@ -6122,7 +6366,8 @@
         "order_value": 307,
         "ath_diff": null,
         "expected_days": 0.9,
-        "buy_to_failure": 76
+        "buy_to_failure": 76,
+        "queue_market": 0.003842
     },
     {
         "name": "شارپیلن",
@@ -6147,7 +6392,8 @@
         "order_value": 101,
         "ath_diff": null,
         "expected_days": 24.3,
-        "buy_to_failure": 7
+        "buy_to_failure": 7,
+        "queue_market": 0.000253
     },
     {
         "name": "شصدف",
@@ -6172,7 +6418,8 @@
         "order_value": 180,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002371
     },
     {
         "name": "لازما",
@@ -6197,7 +6444,8 @@
         "order_value": 164,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 59
+        "buy_to_failure": 59,
+        "queue_market": 0.001229
     },
     {
         "name": "فسازان",
@@ -6222,7 +6470,8 @@
         "order_value": 131,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000213
     },
     {
         "name": "کاریز",
@@ -6247,7 +6496,8 @@
         "order_value": 180,
         "ath_diff": null,
         "expected_days": 6.5,
-        "buy_to_failure": 30
+        "buy_to_failure": 30,
+        "queue_market": 0.001571
     },
     {
         "name": "اروند",
@@ -6272,7 +6522,8 @@
         "order_value": 163,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 1.7e-05
     },
     {
         "name": "لخانه",
@@ -6297,7 +6548,8 @@
         "order_value": 177,
         "ath_diff": null,
         "expected_days": 9.1,
-        "buy_to_failure": 32
+        "buy_to_failure": 32,
+        "queue_market": 0.002562
     },
     {
         "name": "زهلال",
@@ -6322,7 +6574,8 @@
         "order_value": 160,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000269
     },
     {
         "name": "شپنا",
@@ -6347,7 +6600,8 @@
         "order_value": 136,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 1e-06
     },
     {
         "name": "بتهران",
@@ -6372,7 +6626,8 @@
         "order_value": 212,
         "ath_diff": null,
         "expected_days": 0.5,
-        "buy_to_failure": 82
+        "buy_to_failure": 82,
+        "queue_market": 0.001186
     },
     {
         "name": "سغرب",
@@ -6397,7 +6652,8 @@
         "order_value": 260,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000229
     },
     {
         "name": "ساینا",
@@ -6422,7 +6678,8 @@
         "order_value": 108,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000636
     },
     {
         "name": "فرود",
@@ -6447,7 +6704,8 @@
         "order_value": 258,
         "ath_diff": null,
         "expected_days": 1.7,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000978
     },
     {
         "name": "بمولد",
@@ -6472,7 +6730,8 @@
         "order_value": 288,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000506
     },
     {
         "name": "شغدیر",
@@ -6497,7 +6756,8 @@
         "order_value": 228,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000563
     },
     {
         "name": "فیروزه",
@@ -6522,7 +6782,8 @@
         "order_value": 107,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000357
     },
     {
         "name": "رنیک",
@@ -6547,7 +6808,8 @@
         "order_value": 127,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000371
     },
     {
         "name": "فجهانح",
@@ -6572,7 +6834,8 @@
         "order_value": 149,
         "ath_diff": null,
         "expected_days": 14.0,
-        "buy_to_failure": 28
+        "buy_to_failure": 28,
+        "queue_market": 0.0009
     },
     {
         "name": "نماد",
@@ -6597,7 +6860,8 @@
         "order_value": 120,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 6.3e-05
     },
     {
         "name": "خبرنا",
@@ -6622,7 +6886,8 @@
         "order_value": 262,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000581
     },
     {
         "name": "همسنگ",
@@ -6647,7 +6912,8 @@
         "order_value": 198,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000711
     },
     {
         "name": "غفارس",
@@ -6672,7 +6938,8 @@
         "order_value": 247,
         "ath_diff": null,
         "expected_days": 0.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.001073
     },
     {
         "name": "وصنا",
@@ -6697,7 +6964,8 @@
         "order_value": 172,
         "ath_diff": null,
         "expected_days": 0.3,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000477
     },
     {
         "name": "دامین",
@@ -6722,7 +6990,8 @@
         "order_value": 156,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 4.3e-05
     },
     {
         "name": "حتاید",
@@ -6747,7 +7016,8 @@
         "order_value": 250,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00057
     },
     {
         "name": "غپینو",
@@ -6772,7 +7042,8 @@
         "order_value": 190,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 6.9e-05
     },
     {
         "name": "وپسا",
@@ -6797,7 +7068,8 @@
         "order_value": 266,
         "ath_diff": null,
         "expected_days": 1.4,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.018333
     },
     {
         "name": "بکام",
@@ -6822,7 +7094,8 @@
         "order_value": 97,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.00025
     },
     {
         "name": "فاما",
@@ -6847,7 +7120,8 @@
         "order_value": 181,
         "ath_diff": null,
         "expected_days": 1.5,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000795
     },
     {
         "name": "فارمانی",
@@ -6872,7 +7146,8 @@
         "order_value": 99,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.002156
     },
     {
         "name": "فسدید",
@@ -6897,7 +7172,8 @@
         "order_value": 110,
         "ath_diff": null,
         "expected_days": 0.6,
-        "buy_to_failure": 66
+        "buy_to_failure": 66,
+        "queue_market": 0.0028
     },
     {
         "name": "ما",
@@ -6922,7 +7198,8 @@
         "order_value": 109,
         "ath_diff": null,
         "expected_days": 0.8,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000792
     },
     {
         "name": "غصینو",
@@ -6947,7 +7224,8 @@
         "order_value": 176,
         "ath_diff": null,
         "expected_days": 0.0,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 3.9e-05
     },
     {
         "name": "درهآور",
@@ -6972,7 +7250,8 @@
         "order_value": 176,
         "ath_diff": null,
         "expected_days": 0.2,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0005
     },
     {
         "name": "شتهران",
@@ -6997,7 +7276,8 @@
         "order_value": 196,
         "ath_diff": null,
         "expected_days": 1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.000512
     },
     {
         "name": "وسپهر",
@@ -7022,7 +7302,8 @@
         "order_value": 147,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 3.9e-05
     },
     {
         "name": "نیان",
@@ -7047,6 +7328,7 @@
         "order_value": 109,
         "ath_diff": null,
         "expected_days": 0.1,
-        "buy_to_failure": 0
+        "buy_to_failure": 0,
+        "queue_market": 0.0005
     }
 ]
