@@ -29,6 +29,7 @@ $(document).ready(function () {
         { data: "count_contest" },
         { data: "status" },
         { data: "queue_market" },
+        { data: "lock_chance" },
       ],
 
       columnDefs: [
